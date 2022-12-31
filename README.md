@@ -2,7 +2,7 @@
 
 ### Electivo de Diseño, mención Visualidad y Medios | Universidad de Chile
 
-Este es el repositorio de un curso electivo a cargo del profesor [FACO](https://faco.cl/), de introducción a HTML, CSS y JavaScript (a veces abreviado JS, nunca Java).
+Este es el repositorio de un curso electivo a cargo del profesor [FACO](https://faco.cl/), curso de introducción a HTML, CSS y JavaScript (a veces abreviado JS, nunca Java).
 
 Mediante esta introducción, cada estudiante que aprueba habrá adquirido las bases necesarias para comenzar a aportar, desde el desarrollo Front End, a equipos interdisciplinarios dedicados al diseño de puntos de contacto digitales.
 
