@@ -1,6 +1,6 @@
 # Introducción al Desarrollo Front End con HTML, CSS y JavaScript
 
-## Electivo de Diseño, mención Visualidad y Medios | Universidad de Chile
+**Electivo de Diseño, mención Visualidad y Medios | Universidad de Chile**
 
 Este es el repositorio de un curso electivo a cargo del profesor [FACO](https://faco.cl/), curso de introducción a HTML, CSS y JavaScript (a veces abreviado JS, nunca Java).
 
