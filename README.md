@@ -24,7 +24,7 @@ Durante el primer semestre de 2023, cada estudiante necesita:
 
 - - - - - - - 
 
-### Clase-a-clase
+### Clase a clase
 
 Según el calendario académico del año 2023, las actividades académicas de primer semestre en toda la Universidad de Chile deberán realizarse considerando las siguientes fechas:
 
