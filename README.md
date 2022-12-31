@@ -18,7 +18,7 @@ Durante el primer semestre de 2023, cada estudiante necesita:
 
 - computador durante el horario de clases, con:
 
-  - editor de código fuente: [Atom.io](https://atom.io/) o [Sublime Text](https://www.sublimetext.com/)
+  - editor de código fuente (ej: [Sublime Text](https://www.sublimetext.com/))
 
   - navegador web: [Chrome](https://www.google.com/intl/es-419/chrome/) o [Firefox](https://www.mozilla.org/es-CL/firefox/new/). No utilizaremos Safari. Es muy necesario que desactive los traductores en su navegador, porque la traducción automática (y forzada) al español puede complicar un trabajo que se hace, principalmente, en inglés. También es necesario que sepa como "Ver el código fuente de la página", [inspeccionar elementos](https://support.hostinger.es/es/articles/2333029-como-inspeccionar-los-elementos-del-sitio-web) y [abrir consola](https://transferwise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador).
 
