@@ -1,6 +1,6 @@
 # Introducción al Desarrollo Front End con HTML, CSS y JavaScript
 
-### Electivo de Diseño, mención Visualidad y Medios | Universidad de Chile
+## Electivo de Diseño, mención Visualidad y Medios | Universidad de Chile
 
 Este es el repositorio de un curso electivo a cargo del profesor [FACO](https://faco.cl/), curso de introducción a HTML, CSS y JavaScript (a veces abreviado JS, nunca Java).
 
@@ -8,7 +8,7 @@ Mediante esta introducción, cada estudiante que apruebe el curso habrá adquiri
 
 - - - - - - - - -
 
-#### Materiales de trabajo
+### Materiales de trabajo
 
 Durante el primer semestre de 2023, cada estudiante necesita:
 
@@ -26,7 +26,7 @@ Durante el primer semestre de 2023, cada estudiante necesita:
 
 - - - - - - - 
 
-#### Clase-a-clase
+### Clase-a-clase
 
 Según el calendario académico del año 2023, las actividades académicas de primer semestre en toda la Universidad de Chile deberán realizarse considerando las siguientes fechas:
 
@@ -89,7 +89,7 @@ Las 15 sesiones del electivo de **Introducción al Desarrollo Front End con HTML
 
 - - - - - - - - - -
 
-#### Evaluaciones
+### Evaluaciones
 
 Se consideran **2 calificaciones derivadas de los puntajes** acumulados clase a clase; una por puntos **acumulados de interrogaciones** (evaluación teórica) y otra por puntos **acumulados de resoluciones de exploració práctica** (evaluación práctica). 
 
@@ -100,18 +100,18 @@ Se consideran **3 calificaciones con pauta de cotejo al cierre para una de las t
 
 - - - - - - - - - -
 
-#### Bibliografía básica
+### Bibliografía básica
 
 -	McCarthy, L., Reas, C., & Fry, B. (2018). Introducción a p5.js. Processing Foundation.
 -	Meyer, E. A. (2018). CSS pocket reference: Visual presentation for the web (5th ed.). O’Reilly Media.
 -	Robbins, J. N. (2013). HTML5 Pocket Reference (5th ed.). O’Reilly Media.
 
-#### Bibliografía complementaria
+### Bibliografía complementaria
 
 -	Duckett, J. (2014). HTML & CSS. Design and build websites. John Wiley & Sons.
 -	Flanagan, D. (2020). JavaScript: The Definitive Guide (7th ed.). O’Reilly Media.
 
-#### Recursos en línea
+### Recursos en línea
 
 -	Lista de reproducción de contenido en Youtube: [Code! Programming with p5.js](https://youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 -	Lista de reproducción de contenido en Youtube: [Web Demystified](https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g)
