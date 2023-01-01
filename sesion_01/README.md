@@ -4,7 +4,7 @@
 
 ### Jueves 16 de marzo → sesion_01 → p5.js
 
-En el [README.md](https://github.com/profesorfaco/front-2023-1#readme) que se encuentra al acceder a este repositorio, pudieron leer que para este electivo **corresponde considerar la modalidad de "aula invertida" (flipped classroom en inglés)**. 
+En el [README.md](https://github.com/profesorfaco/front-2023-1#readme) que se encuentra al acceder a este repositorio, pudieron leer que para este electivo **corresponde considerar la modalidad de "aula invertida" (*flipped classroom* en inglés)**. 
 
 Por la modalidad a considerar, antes de la primera clase cada estudiante debe revisar el texto que sigue y tres videos en YouTube. 
 
