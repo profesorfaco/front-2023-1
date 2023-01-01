@@ -18,7 +18,7 @@ Por la modalidad a considerar, antes la segunda clase también corresponde revis
 
 #### Teoría
 
-En esta sesión vamos a echarle un vistazo al fondo de la piscina a la que ya nos lanzamos.
+En esta sesión vamos a echarle un primer vistazo al fondo de la piscina a la que ya nos lanzamos.
 
 En el [editor web de p5.js](https://editor.p5js.org/) podrán encontrar a la izquierda, justo debajo de *play*, este símbolo: `>`. Después del clic se desplegará una ventana de izquierda a derecha, dentro de la que se ven tres archivos:
 
