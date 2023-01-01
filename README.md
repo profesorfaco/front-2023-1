@@ -16,6 +16,8 @@ Durante el primer semestre de 2023, cada estudiante necesita:
 
   - activar [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site) en cada repositorio creado
 
+  - hacer *login* en el [editor de p5.js](https://editor.p5js.org/) en las primeras clases
+
 - computador durante el horario de clases, con:
 
   - conexión a Internet
