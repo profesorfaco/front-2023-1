@@ -16,7 +16,7 @@ Lo recomendable es hacer la revisión en EL SIGUIENTE ORDEN:
 
 - TERCERO: Leer lo que sigue (bajo el título de [Teoría](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_01#teor%C3%ADa))
 
-- CUARTO: [1.2: Editor Web p5.js - Tutorial p5.js](https://youtu.be/MXs1cOlidWs) ¡Pero no hagan el "sign up"! Mejor sería hacer "log in" con cuenta personal en GitHub. 
+- CUARTO: [1.2: Editor Web p5.js - Tutorial p5.js](https://youtu.be/MXs1cOlidWs) ¡Pero no hagan el *sign up* referido en el video! Mejor sería hacer el *log in* con cuenta personal en GitHub. 
 
 - - - - - - - - 
 
