@@ -6,9 +6,7 @@
 
 Repitamos una idea. En el [README.md](https://github.com/profesorfaco/front-2023-1#readme) que se encuentra al acceder a este repositorio, pudieron leer que para este electivo **corresponde considerar la modalidad de "aula invertida" (*flipped classroom* en inglés)**. 
 
-Por la modalidad a considerar, antes la segunda clase también corresponde revisar texto y video.
-
-Lo recomendable es hacer la revisión en EL SIGUIENTE ORDEN:
+Por la modalidad a considerar, antes la segunda clase también corresponde revisar algo de contenido en EL SIGUIENTE ORDEN:
 
 - PRIMERO: [1.3: Figuras y Dibujo - Tutorial p5.js](https://youtu.be/c3TeLi6Ns1E)
 
