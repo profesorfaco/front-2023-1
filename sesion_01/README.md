@@ -8,7 +8,7 @@ En el [README.md](https://github.com/profesorfaco/front-2023-1#readme) que se en
 
 Por la modalidad a considerar, antes de la primera clase cada estudiante debe revisar el texto que sigue y tres videos en YouTube. 
 
-Lo recomendable es hacer la revisión en el siguiente orden:
+Lo recomendable es hacer la revisión en EL SIGUIENTE ORDEN:
 
 - PRIMERO: [1.1: Introducción - Git y GitHub para Poetas](https://youtu.be/BCQHnlnPusY)
 
