@@ -16,7 +16,7 @@ Lo recomendable es hace la consulta en el siguiente orden:
 
 - TERCERO: Leer lo que sigue (bajo el título de [Teoría](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_01#teor%C3%ADa))
 
-- CUARTO: Tomarse un poco más de 7 minutos para ver [1.2: Editor Web p5.js - Tutorial p5.js](https://youtu.be/MXs1cOlidWs) ¡Pero no hagan "sign up" llenando todos los casillero! Mejor sería hacer "log in" con cuenta personal en GitHub. 
+- CUARTO: Tomarse un poco más de 7 minutos para ver [1.2: Editor Web p5.js - Tutorial p5.js](https://youtu.be/MXs1cOlidWs) ¡Pero no hagan el "sign up"! Mejor sería hacer "log in" con cuenta personal en GitHub. 
 
 - - - - - - - - 
 
