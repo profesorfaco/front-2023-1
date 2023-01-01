@@ -1,6 +1,6 @@
 # Introducción al Desarrollo Front End con HTML, CSS y JavaScript
 
-Este es el repositorio de un curso electivo de **Diseño**, mención visualidad y medios **en la Universidad de Chile**. Este electivo está a cargo del profesor [FACO](https://faco.cl/), quien ofrece una introducción a HTML, CSS y JavaScript (a veces abreviado JS, nunca Java).
+Este es el repositorio de un curso electivo de **Diseño**, mención visualidad y medios, **en la Universidad de Chile**. Este electivo está a cargo del profesor [FACO](https://faco.cl/), quien ofrece una introducción a HTML, CSS y JavaScript (a veces abreviado JS, nunca Java).
 
 Mediante esta introducción, cada estudiante podrá adquirir las bases necesarias para comenzar a aportar, desde el desarrollo Front End, a equipos multidisciplinarios dedicados al diseño de puntos de contacto digitales.
 
@@ -38,9 +38,9 @@ Según el calendario académico del año 2023, las actividades académicas de pr
 
 - Vacaciones de invierno: Entre lunes 24 de julio y viernes 4 de agosto.
 
-Con tales fechas, las tres carreras en la Facultad de Arquitectura y Urbanismo (FAU) distribuyen las actividades docente para proteger tiempos de dedicación exclusiva para algunas asignaturas. Por tal razón, las habituales 18 sesiones de asignaturas semestrales se transforman en 15, con inicios y cierres en desfase.
+Con tales fechas, las tres carreras en la Facultad de Arquitectura y Urbanismo (FAU) distribuyen las actividades docente para proteger tiempos de dedicación exclusiva para algunos cursos. Por tal razón, las habituales 18 sesiones de asignaturas semestrales se transforman en 15, con inicios y cierres en desfase.
 
-Las 15 sesiones del electivo de **Introducción al Desarrollo Front End con HTML, CSS y JavaScript** serán las siguientes:
+Para las 15 sesiones del electivo de **Introducción al Desarrollo Front End con HTML, CSS y JavaScript** se dividen de la siguiente manera:
 
 **Unidad I: Bocetos de introducción a la programación**
 
