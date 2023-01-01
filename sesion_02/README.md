@@ -14,6 +14,8 @@ Lo recomendable es hacer la revisión en EL SIGUIENTE ORDEN:
 
 - SEGUNDO: Leer lo que sigue (bajo el título de [Teoría](https://github.com/profesorfaco/front-2023-2/tree/main/sesion_01#teor%C3%ADa))
 
+- TERCERO: Revisar la página [JavaScript Para Gatos: Una introducción para nuevos programadores](https://jsparagatos.com/) hasta el subtítulo *Objetos*, incluyéndolo en la revisión.
+
 - - - - - - - - 
 
 #### Teoría
