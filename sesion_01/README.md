@@ -4,19 +4,19 @@
 
 ### Jueves 16 de marzo → sesion_01 → p5.js
 
-En el [README.md](https://github.com/profesorfaco/front-2023-1#readme) que se encuentra al acceder a este repositorio, se indica que **corresponde considerar la modalidad de "aula invertida" (flipped classroom en inglés)**. 
+En el [README.md](https://github.com/profesorfaco/front-2023-1#readme) que se encuentra al acceder a este repositorio, pudieron leer que para este electivo **corresponde considerar la modalidad de "aula invertida" (flipped classroom en inglés)**. 
 
-Por la modalidad a considerar, antes de la primera clase cada estudiante debería consultar el texto que sigue y tres videos en YouTube. 
+Por la modalidad a considerar, antes de la primera clase cada estudiante debe revisar el texto que sigue y tres videos en YouTube. 
 
-Lo recomendable es hace la consulta en el siguiente orden:
+Lo recomendable es hacer la revisión en el siguiente orden:
 
-- PRIMERO: Tomarse casi 15 minutos para ver [1.1: Introducción - Git y GitHub para Poetas](https://youtu.be/BCQHnlnPusY)
+- PRIMERO: [1.1: Introducción - Git y GitHub para Poetas](https://youtu.be/BCQHnlnPusY)
 
-- SEGUNDO: Tomarse casi 15 minutos para ver [1.1: ¡Código! Programación para Principiantes con p5.js](https://www.youtube.com/watch?v=yPWkPOfnGsw)
+- SEGUNDO: [1.1: ¡Código! Programación para Principiantes con p5.js](https://www.youtube.com/watch?v=yPWkPOfnGsw)
 
 - TERCERO: Leer lo que sigue (bajo el título de [Teoría](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_01#teor%C3%ADa))
 
-- CUARTO: Tomarse un poco más de 7 minutos para ver [1.2: Editor Web p5.js - Tutorial p5.js](https://youtu.be/MXs1cOlidWs) ¡Pero no hagan el "sign up"! Mejor sería hacer "log in" con cuenta personal en GitHub. 
+- CUARTO: [1.2: Editor Web p5.js - Tutorial p5.js](https://youtu.be/MXs1cOlidWs) ¡Pero no hagan el "sign up"! Mejor sería hacer "log in" con cuenta personal en GitHub. 
 
 - - - - - - - - 
 
@@ -26,9 +26,7 @@ Para lanzarnos a la piscina sin haber averiguado su profundidad, aprovecharemos 
 
 > ¡**p5.js** es una biblioteca de JavaScript para la programación creativa, que busca hacer que programar sea accesible e inclusivo para artistas, diseñadores, educadores, principiantes y cualquier otra persona! **p5.js** es gratuito y de código abierto porque creemos que el software y las herramientas para aprenderlo deben ser accesibles para todos.
 
-Esta biblioteca fue creada por [Lauren McCarthy](http://lauren-mccarthy.com/) y es desarrollada por una comunidad de colaboradores, con apoyo de [Processing Foundation](https://processingfoundation.org/). Entre los colaboradores hay 2 chilenos, que se han encargado de la traducción de referencias, tutoriales y [un libro](https://processingfoundation.press/product/introduccion-a-p5-js/) al castellano; ellos son: [Guillermo Montecinos](https://guillemontecinos.cl/) y [Aarón Montoya-Moraga](https://montoyamoraga.io/).
-
-[p5.js](https://p5js.org/es/) fue creada como una reinterpretación de [Processing](https://processing.org/) para la web. 
+Esta biblioteca fue creada por [Lauren McCarthy](http://lauren-mccarthy.com/) como una reinterpretación de [Processing](https://processing.org/) para la web. 
 
 En Processing, que se basa en [Java](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)), cada *sketch* debe tener dos partes:
 
@@ -37,7 +35,7 @@ En Processing, que se basa en [Java](https://es.wikipedia.org/wiki/Java_(lenguaj
  
 Hay un `setup` que se ejecuta una única vez, en la partida. Y hay un `draw` que, por defecto, se ejecuta una y otra vez. 
 
-Ahora, cambiemos el `void` de Java por el `function` de [JavaScript](https://es.wikipedia.org/wiki/JavaScript), y tenemos:
+Ahora, gracias a [Lauren McCarthy](http://lauren-mccarthy.com/), podemos cambiar el `void` de Java por el `function` de [JavaScript](https://es.wikipedia.org/wiki/JavaScript):
 
 - `function setup()`; y 
 - `function draw()`. 
@@ -73,7 +71,7 @@ Utilizamos `createCanvas()`, `frameRate()`, `background()`, `random()`, que son 
 
 > un conjunto completo de funcionalidades para dibujar. Sin embargo, no estás limitado solo a dibujar. Puedes tomar toda la página del navegador como tu bosquejo, incluyendo los objetos HTML5 para texto, entrada, video, cámara web y sonido.
 
-Para enteder cómo es que esta biblioteca de JavaScript nos permite dibujar en el canvas o tomar toda la página del navegador, conviene agregar una nota sobre el [Modelo de Objeto de Documento (DOM)](https://developer.mozilla.org/es/docs/Glossary/DOM): **A través del DOM, los programas escritos en JavaScript pueden acceder y modificar la interpretación del contenido, estructura y estilo de la página web**. 
+Para enteder cómo es que esta biblioteca de JavaScript nos permite dibujar en el canvas o tomar toda la página del navegador, conviene agregar una nota sobre el [Modelo de Objeto de Documento (DOM)](https://developer.mozilla.org/es/docs/Glossary/DOM): **A través del DOM, los programas escritos en JavaScript pueden acceder y modificar la interpretación del contenido, estructura y estilo de la página web que nos muestra el navegador**. 
 
 Para no entrar en tecnisismos, quedemonos con que JavaScript no modifica lo escrito, lo que modifica es la comprensión de lectura del navegador. Como el resultado está a la vista, quizá convenga la siguiente analogía para establecer la diferencia entre código fuente y DOM: Si capturaste una imagen con 3 elementos y agregas un cuarto "photoshopénadolo", en ningún caso modificas la escena capturada, pero todos podrán ver una imagen con 4 elementos. 
 
@@ -85,11 +83,7 @@ Estirando la analogía: Podríamos encontrar inconcruencias en los despliegue de
 
 #### Exploración práctica
 
-Continuaremos la exploración del *conjunto completo de funcionalidades para dibujar* en el [editor web de p5.js](https://editor.p5js.org/). 
-
-Después pasaremos al editor de código fuente, copiando y pegando los tres archivos que genera el [editor web de p5.js](https://editor.p5js.org/), para trabajarlo de manera local.
-
-Además del editor de código fuente, es muy necesario disponer de un navegador Firefox o Chrome, y saber como **ver código fuente**, [inspeccionar elementos](https://support.hostinger.es/es/articles/2333029-como-inspeccionar-los-elementos-del-sitio-web) y [abrir consola](https://transferwise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador) en el que dispongan.
+De manera presencial, en nuestras 3 horas directas, continuaremos la exploración del *conjunto completo de funcionalidades para dibujar* que ofrecer p5.js. Lo haremos desde el [editor web de p5.js](https://editor.p5js.org/). 
 
 - - - - - - - 
 
