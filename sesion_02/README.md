@@ -4,15 +4,29 @@
 
 ### Jueves 23 de marzo → sesion_02 → HTML, CSS y p5.js (una biblioteca de JavaScript)
 
+Repitamos una idea. En el [README.md](https://github.com/profesorfaco/front-2023-1#readme) que se encuentra al acceder a este repositorio, pudieron leer que para este electivo **corresponde considerar la modalidad de "aula invertida" (*flipped classroom* en inglés)**. 
+
+Por la modalidad a considerar, antes la segunda clase también corresponde revisar texto y video.
+
+Lo recomendable es hacer la revisión en EL SIGUIENTE ORDEN:
+
+- PRIMERO: [1.3: Figuras y Dibujo - Tutorial p5.js](https://youtu.be/c3TeLi6Ns1E)
+
+- SEGUNDO: Leer lo que sigue (bajo el título de [Teoría](https://github.com/profesorfaco/front-2023-2/tree/main/sesion_01#teor%C3%ADa))
+
 - - - - - - - - 
 
 #### Teoría
 
-En esta sesión vamos a echarle un vistazo al fondo de la piscina a la que ya nos lanzamos. 
+En esta sesión vamos a echarle un vistazo al fondo de la piscina a la que ya nos lanzamos.
 
-Lo primero que aparece a la vista es que el código fuente implica describir y/o programar. 
+En el [editor web de p5.js](https://editor.p5js.org/) podrán encontrar a la izquierda, justo debajo de *play*, este símbolo: `>`. Al presionarlo, se muestra una caja con tres archivos: `index.html`, `sketch.js` y `style.css`. Estos son los necesarios para hacer cualquier sitio o aplicación que atienda a [los estándares web](https://www.w3.org/standards/webdesign/). 
 
-Hay lenguajes de descripción y lenguajes de programación. Y en web, se utilizan principalmente:
+Si volvemos a la analogía del photoshopeo de la sesión pasada: El `index.html` describe los elementos de la captura original a mostrar, el `style.css` describe cómo mostrarlos, y en el `sketch.js` se programa el "photoshopeo" (eso que se muestre, bajo ciertas condiciones, que puede ser distinto de lo que se describe originalmente en el `index.html`).
+
+No corresponde pensar en tales `.html`, `.css` y `.js` como extensiones de archivos que deben abrirse en programas determinados, así como el `.psd` se abre y edita con Photoshop y el `.ai` con Illustrator. HTML, CSS y JavaScript son lenguajes que se pueden escribir en cualquier editor de código fuente, incluso con un block de notas: ¡Guardamos lo escrito como `.txt`, luego cambiamos la extensión por la que corresponda y listo!
+
+Conviene saber que dos de los lenguajes mencionados sirven para describir y uno para programar:
 
 - **HTML (HyperText Markup Language)**. Lenguaje estándar que describe la estructura de las páginas web (qué es lo que contiene la página). HTML5 es la versión más reciente de este lenguaje. El bloque constructivo más básico del HTML es el elemento. Cada elemento de HTML se escribe, generalmente, entre etiquetas: `<etiqueta>contenido</etiqueta>` → Puedes complementar esta brevísima introducción a HTML con una revisión de https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/HTML_basics
 
