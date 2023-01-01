@@ -77,11 +77,11 @@ Las 15 sesiones del electivo de **Introducción al Desarrollo Front End con HTML
 - **Jueves 29 de junio → [sesion_15](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_15) → Evaluación de cierre Nº3**  
 
 
-**Para cada sesión, exceptuando las tres de evaluación de cierre, corresponde considerar la modalidad de "aula invertida" (*flipped classroom* en inglés). Esto permitirá el uso de horas directas con mayor flexibilidad, adaptándose a la diversidad de aprendizajes.** Esta modalidad es más efectiva cuando cada estudiante:
+**Para cada sesión, exceptuando las tres de evaluación de cierre, corresponde considerar la modalidad de "aula invertida" (*flipped classroom* en inglés). Esto permitirá el uso de horas directas más dialogantes, adaptándose a la diversidad de aprendizajes.** Esta modalidad es más efectiva cuando cada estudiante:
 
-- usa las horas indirectas para la lectura del contenido teórico; 
+- usa las horas indirectas (autónomas) para la revisión del contenido teórico; 
 
-- demuestra la comprensión de su lectura al comienzo de las horas directas; y
+- demuestra el dominio del contenido teórico comenzando las horas directas (en aula); y
  
 - resuelve la exploración práctica presencial, publicando resultados con [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site).
 
@@ -89,7 +89,7 @@ Las 15 sesiones del electivo de **Introducción al Desarrollo Front End con HTML
 
 ### Evaluaciones
 
-Se consideran **2 calificaciones derivadas de los puntajes** acumulados clase a clase; una por puntos **acumulados de interrogaciones** (evaluación teórica) y otra por puntos **acumulados de resoluciones de exploració práctica** (evaluación práctica). 
+Se consideran **2 calificaciones derivadas de los puntajes** acumulados clase a clase; una por puntos **acumulados de interrogaciones** (evaluación teórica; resultado de trabajo autónomo) y otra por puntos **acumulados de resoluciones de exploració práctica** (evaluación práctica; resultado de trabajo en aula). 
 
 Se consideran **3 calificaciones con pauta de cotejo al cierre para una de las tres unidades (evaluaciones de cierre 1, 2 y 3)**. Estas evaluaciones se desarrollan como pruebas presenciales donde la asistencia es obligatoria. La aceptación de certificados médicos (los cuales deben estar visados por el SEMDA) es discrecional del profesor.
 
