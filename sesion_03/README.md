@@ -6,7 +6,7 @@
 
 - - - - - - - - 
 
-Para la evaluación corresponde editar [los archivos](https://profesorfaco.github.io/front-2023-1/sesion_03/) en esta carpeta ([sesion_03](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_03)) contenida en el repositorio del electivo ([front-end](https://github.com/profesorfaco/front-end)):
+Para la evaluación corresponde editar [los archivos](https://profesorfaco.github.io/front-2023-1/sesion_03/) en esta carpeta ([sesion_03](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_03)) contenida en el repositorio de la segunda versión del Electivo de Introducción al Desarrollo Front End con HTML, CSS y JavaScript:
 
 - [`index.html`](https://github.com/profesorfaco/front-2023-1/blob/main/sesion_03/index.html) con un texto que presente lo que se encontrará en las páginas interiores. Algo muy parecido a lo hecho en la sesión recién pasada, donde escribieron las razones para tomar y seguir en el electivo; ahora son las razones para adaptar determinados ejemplos de p5.js
 
