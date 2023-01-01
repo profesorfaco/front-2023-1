@@ -92,7 +92,7 @@ canvas {
 }
 ```
 
-Ahora, asegurémonos de haber hecho *log in* al [editor web de p5.js](https://editor.p5js.org/) y guardemos el sketch para después descargarlo.
+Ahora, asegurémonos de haber hecho *log in* al [editor web de p5.js](https://editor.p5js.org/) y guardemos el *sketch* para después descargarlo.
 
 Pongamos lo descargado en un lugar accesible (no en la carpeta de descargas, podría ser en el escritorio), y allí borren 2 de los 5 archivos descargados, para quedarnos sólo con los 3 ya varias veces referidos. 
 
