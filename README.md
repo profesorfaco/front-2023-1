@@ -1,14 +1,14 @@
 # Introducción al Desarrollo Front End con HTML, CSS y JavaScript
 
-Este es el repositorio de un curso electivo de Diseño, mención visualiad y medios en la Universidad de Chile. El curso está a cargo del profesor [FACO](https://faco.cl/), quien ofrece una introducción a HTML, CSS y JavaScript (a veces abreviado JS, nunca Java).
+Este es el repositorio de un curso electivo de **Diseño**, mención visualidad y medios **en la Universidad de Chile**. Este electivo está a cargo del profesor [FACO](https://faco.cl/), quien ofrece una introducción a HTML, CSS y JavaScript (a veces abreviado JS, nunca Java).
 
-Mediante esta introducción, cada estudiante que apruebe el curso habrá adquirido las bases necesarias para comenzar a aportar, desde el desarrollo Front End, a equipos interdisciplinarios dedicados al diseño de puntos de contacto digitales.
+Mediante esta introducción, cada estudiante podrá adquirir las bases necesarias para comenzar a aportar, desde el desarrollo Front End, a equipos interdisciplinarios dedicados al diseño de puntos de contacto digitales.
 
 - - - - - - - - -
 
 ### Materiales de trabajo
 
-Durante el primer semestre de 2023, cada estudiante necesita:
+Cada estudiante necesitará:
 
 - cuenta personal en [GitHub](https://github.com/join), para:
 
@@ -24,7 +24,7 @@ Durante el primer semestre de 2023, cada estudiante necesita:
 
   - navegador web: [Chrome](https://www.google.com/intl/es-419/chrome/) o [Firefox](https://www.mozilla.org/es-CL/firefox/new/). No utilizaremos Safari. Es muy necesario que desactive los traductores en su navegador, porque la traducción automática (y forzada) al español puede complicar un trabajo que se hace, principalmente, en inglés. También es necesario que sepa como "Ver el código fuente de la página", [inspeccionar elementos](https://support.hostinger.es/es/articles/2333029-como-inspeccionar-los-elementos-del-sitio-web) y [abrir consola](https://transferwise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador).
 
-  - editor de código fuente: esté instalado (ej. [Sublime Text](https://www.sublimetext.com/), [Atom](https://github.com/atom/atom), [Brackets](https://brackets.io/)) o entre sus sitios web favoritos (ej. [Phoenix Code Editor](https://phcode.dev/))
+  - editor de código fuente: esté instalado (ej. [Sublime Text](https://www.sublimetext.com/), [Atom](https://github.com/atom/atom), [Brackets](https://brackets.io/)) o entre sus favoritos en el navegador (ej. [Phoenix Code Editor](https://phcode.dev/))
 
 - - - - - - - 
 
