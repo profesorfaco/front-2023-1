@@ -38,7 +38,7 @@ Según el calendario académico del año 2023, las actividades académicas de pr
 
 - Vacaciones de invierno: Entre lunes 24 de julio y viernes 4 de agosto.
 
-Con tales fechas, las tres carreras en la Facultad de Arquitectura y Urbanismo (FAU) distribuyen las actividades docente para proteger la dedicación exclusiva a algunas asignaturas. Por tal razón las habituales 18 sesiones de asignaturas semestrales se transforman en 15, con inicios y cierres en desfase.
+Con tales fechas, las tres carreras en la Facultad de Arquitectura y Urbanismo (FAU) distribuyen las actividades docente para proteger tiempos de dedicación exclusiva para algunas asignaturas. Por tal razón, las habituales 18 sesiones de asignaturas semestrales se transforman en 15, con inicios y cierres en desfase.
 
 Las 15 sesiones del electivo de **Introducción al Desarrollo Front End con HTML, CSS y JavaScript** serán las siguientes:
 
@@ -80,8 +80,7 @@ Las 15 sesiones del electivo de **Introducción al Desarrollo Front End con HTML
 
 - **Jueves 29 de junio → [sesion_15](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_15) → Evaluación de cierre Nº3**  
 
-
-**Para cada sesión, exceptuando las tres de evaluación de cierre, corresponde considerar la modalidad de "aula invertida" (*flipped classroom* en inglés). Esto permitirá el uso de horas directas más dialogantes, adaptándose a la diversidad de aprendizajes.** Esta modalidad es más efectiva cuando cada estudiante:
+**Para cada sesión, exceptuando las tres de evaluación de cierre, corresponde considerar la modalidad de "aula invertida" (*flipped classroom* en inglés). Esto permitirá unas horas directas más dialogantes y prácticas.** Esta modalidad es más efectiva cuando cada estudiante:
 
 - usa las horas indirectas (autónomas) para la revisión del contenido teórico; 
 
@@ -93,12 +92,11 @@ Las 15 sesiones del electivo de **Introducción al Desarrollo Front End con HTML
 
 ### Evaluaciones
 
-Se consideran **2 calificaciones derivadas de los puntajes** acumulados clase a clase; una por puntos **acumulados de interrogaciones** (evaluación teórica; resultado de trabajo autónomo) y otra por puntos **acumulados de resoluciones de exploració práctica** (evaluación práctica; resultado de trabajo en aula). 
+Se consideran **2 calificaciones derivadas de los puntajes** acumulados clase a clase; una por puntos **acumulados de interrogaciones** (evaluación teórica; resultado de la dedicación a horas indirectas) y otra por puntos **acumulados de resoluciones de exploració práctica** (evaluación práctica; resultado de la dedicación a horas directas).
 
 Se consideran **3 calificaciones con pauta de cotejo al cierre para una de las tres unidades (evaluaciones de cierre 1, 2 y 3)**. Estas evaluaciones se desarrollan como pruebas presenciales donde la asistencia es obligatoria. La aceptación de certificados médicos (los cuales deben estar visados por el SEMDA) es discrecional del profesor.
 
 **Con las 5 calificaciones promediadas se obtiene la nota final del electivo**.
-
 
 - - - - - - - - - -
 
