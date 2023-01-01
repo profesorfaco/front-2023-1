@@ -83,7 +83,7 @@ Estirando la analogía: Podríamos encontrar inconcruencias en los despliegue de
 
 #### Exploración práctica
 
-De manera presencial, en nuestras 3 horas directas, continuaremos la exploración del *conjunto completo de funcionalidades para dibujar* que ofrecer p5.js. Lo haremos desde el [editor web de p5.js](https://editor.p5js.org/). 
+De manera presencial, en nuestras 3 horas directas, continuaremos la exploración del *conjunto completo de funcionalidades para dibujar* que ofrecer p5.js. Lo haremos desde el [editor web de p5.js](https://editor.p5js.org/), apoyándonos en la página oficial de referencias de esta biblioteca de JavaScript para la programación creativa.
 
 - - - - - - - 
 
