@@ -4,6 +4,20 @@
 
 ### Jueves 16 de marzo → sesion_01 → p5.js
 
+En el [README.md](https://github.com/profesorfaco/front-2023-1#readme) que se encuentra al acceder a este repositorio, se indica que **corresponde considerar la modalidad de "aula invertida" (flipped classroom en inglés)**. 
+
+Por la modalidad a considerar, antes de la primera clase cada estudiante debería consultar el texto que sigue y tres videos en YouTube. 
+
+Lo recomendable es hace la consulta en el siguiente orden:
+
+- PRIMERO: Tomarse casi 15 minutos para ver [1.1: Introducción - Git y GitHub para Poetas](https://youtu.be/BCQHnlnPusY)
+
+- SEGUNDO: Tomarse casi 15 minutos para ver [1.1: ¡Código! Programación para Principiantes con p5.js](https://www.youtube.com/watch?v=yPWkPOfnGsw)
+
+- TERCERO: Leer lo que sigue (bajo el título de [Teoría](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_01#teor%C3%ADa))
+
+- CUARTO: Tomarse un poco más de 7 minutos para ver [1.2: Editor Web p5.js - Tutorial p5.js](https://youtu.be/MXs1cOlidWs) ¡Pero no hagan "sign up" llenando todos los casillero! Mejor sería hacer "log in" con cuenta personal en GitHub. 
+
 - - - - - - - - 
 
 #### Teoría
@@ -66,10 +80,6 @@ Para no entrar en tecnisismos, quedemonos con que JavaScript no modifica lo escr
 Estirando la analogía: Podríamos encontrar inconcruencias en los despliegue de (1) código fuente de la página y (2) elementos de la página. Esto es así porque en el código fuente de la página está lo capturado originalmente, mientras que en la vista de elementos de la misma página está lo "photoshopeado", y esto último coincide con la comprensión de lectura del navegador.
 
 **Ahora volvamos al *Preview* del [editor web de p5.js](https://editor.p5js.org/): Lo que allí vemos al presionar *play* es lo "photoshopeado"**.
-
-En este mismo editor podrán notar que a la izquierda, justo debajo de *play*, encuentran con este símbolo: `>`. Al presionarlo, se muestra una caja con tres archivos: `index.html`, `sketch.js` y `style.css`. Estos son los necesarios para hacer cualquier sitio o aplicación que atienda a [los estándares web](https://www.w3.org/standards/webdesign/). El `index.html` describe la captura original a mostrar, el `style.css` describe cómo mostrarla, y en el `sketch.js` se programa el "photoshopeo" (eso que se muestre, bajo ciertas condiciones, que puede ser distinto de lo que se describe originalmente en el `index.html`).
-
-No corresponde pensar en tales `.html`, `.css` y `.js` como extensiones de archivos que deben abrirse en programas determinados, así como el `.psd` se abre y edita con Photoshop y el `.ai` con Illustrator. HTML, CSS y JavaScript son lenguajes que se pueden escribir en cualquier editor de código fuente, incluso con un block de notas: ¡Guardamos lo escrito como `.txt`, luego cambiamos la extensión por la que corresponda y listo!
 
 - - - - - - - - - - - - -
 
