@@ -28,22 +28,25 @@ Nos quedaremos con el primero de los mencionados, en su versión más reciente, 
 
 [Bootstrap](https://getbootstrap.com/) nos permite implementar tanto prototipos rápidos como productos acabados, esto mediante el uso de elementos HTML relacionados con [reglas de CSS predefinidas](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.css).
 
-Hay distintas maneras de comenzar a trabajar con Boostrap. Nosotros vamos a partir con una adaptación de la [Starter template](https://getbootstrap.com/docs/5.1/getting-started/introduction/#starter-template), que copiaremos y pegaremos en un documento nuevo creado en un editor de código fuente, documento que guardaremos con el nombre `ejemplo.html`: 
+Hay distintas maneras de comenzar a trabajar con Boostrap. Nosotros vamos a partir con [la rápida](https://getbootstrap.com/docs/5.3/getting-started/introduction/#quick-start): 
 
 ```
 <!doctype html>
-<html lang="es">
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <title>¡Usemos Bootstrap!</title>
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
   </head>
-  <body>…</body>
+  <body>
+    <h1>Hello, world!</h1>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+  </body>
 </html>
 ```
 
-En el cuerpo de tal documento HTML (`<body></body>`) podemos comenzar a utilizar las clases con las que Bootstrap define el *layout*, siguiendo un principio general de tomar entre 1 y 12 columnas (`class="col"`) dentro de cada fila (`class="row"`) que, a su vez, está dentro de un contenedor (`class="container"`). En el `ejemplo.html` creado, reemplacen los puntos suspensivos (`…`) por lo siguiente:
+Luego, en el cuerpo de tal documento HTML (`<body></body>`) podemos comenzar a utilizar las clases con las que Bootstrap define el *layout*, siguiendo un principio general de tomar entre 1 y 12 columnas (`class="col"`) dentro de cada fila (`class="row"`) que, a su vez, está dentro de un contenedor (`class="container"`). En el `ejemplo.html` creado, reemplacen los puntos suspensivos (`…`) por lo siguiente:
 
 ```
 <div class="container">
@@ -65,13 +68,13 @@ Pero podemos indicar excepciones que respondan al tamaño de ventana de navegado
 
 Para vetanas más angostas que la mediana se asumirá que se quieren tomar 12 columnas (todo el ancho disponible). Por eso quedará la pregunta arriba y la respuesta abajo cuando el ancho de la ventana del navegador sea chica o muy chica. 
 
-Los tamaños en pixeles de cada pantalla los pueden revisar en los [*Breakpoints* de Bootstrap](https://getbootstrap.com/docs/5.1/layout/breakpoints/#available-breakpoints).
-
-**Pueden asomarse al código fuente del [eslabón que les dejo en esta carpeta](https://profesorfaco.github.io/front-2023-1/sesion_04/eslabon.html) para relacionar lo tratado en las tres primeras sesiones y [Bootstrap](https://getbootstrap.com/).**
+Los tamaños en pixeles de cada pantalla los pueden revisar en los [*Breakpoints* de Bootstrap]([https://getbootstrap.com/docs/5.3/layout/breakpoints/](https://getbootstrap.com/docs/5.3/layout/breakpoints/#available-breakpoints)).
 
 - - - - - - 
 
 #### Práctica (horas directas)
+
+**Pueden asomarse al código fuente del [eslabón que les dejo en esta carpeta](https://profesorfaco.github.io/front-2023-1/sesion_04/eslabon.html) para relacionar lo tratado en las tres primeras sesiones y [Bootstrap](https://getbootstrap.com/).**
 
 En el sitio web oficial de Bootstrap encontrarán [documentación detallada](https://getbootstrap.com/docs/5.1/getting-started/introduction/) sobre cada clase, utilidad y componente que ofrece. Allí también encontrarán [ejemplos](https://getbootstrap.com/docs/5.1/examples/). 
 
