@@ -92,7 +92,7 @@ Para las 15 sesiones del electivo de **Introducción al Desarrollo Front End con
 
 ### Evaluaciones
 
-Se consideran **2 calificaciones derivadas de los puntajes** acumulados clase a clase; una por puntos **acumulados de interrogaciones** (evaluación teórica; resultado de la dedicación a horas indirectas) y otra por puntos **acumulados de resoluciones de exploració práctica** (evaluación práctica; resultado de la dedicación a horas directas).
+Se consideran **2 calificaciones derivadas de los puntajes** acumulados clase a clase; una por puntos **acumulados de interrogaciones** (evaluación teórica; resultado de la dedicación a horas indirectas) y otra por puntos **acumulados de resoluciones de exploración práctica** (evaluación práctica; resultado de la dedicación a horas directas).
 
 Se consideran **3 calificaciones con pauta de cotejo al cierre para una de las tres unidades (evaluaciones de cierre 1, 2 y 3)**. Estas evaluaciones se desarrollan como pruebas presenciales donde la asistencia es obligatoria. La aceptación de certificados médicos (los cuales deben estar visados por el SEMDA) es discrecional del profesor.
 
