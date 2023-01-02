@@ -24,9 +24,9 @@ Por la modalidad a aula invertida, antes la cuarta sesión corresponde revisar a
 
 - [Semantic UI](https://semantic-ui.com/): *A development framework that helps create beautiful, responsive layouts using human-friendly HTML*
 
-Nos quedaremos con el primero de los mencionados, en su versión más reciente, la 5.1. 
+Nos quedaremos con el primero de los mencionados, en su versión más reciente, la 5.3. 
 
-[Bootstrap](https://getbootstrap.com/) nos permite implementar tanto prototipos rápidos como productos acabados, esto mediante el uso de elementos HTML relacionados con [reglas de CSS predefinidas](https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.css).
+[Bootstrap](https://getbootstrap.com/) nos permite implementar tanto prototipos rápidos como productos acabados, esto mediante el uso de elementos HTML relacionados con [reglas de CSS predefinidas](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.css).
 
 Hay distintas maneras de comenzar a trabajar con Boostrap. Nosotros vamos a partir con una adaptación de la [Starter template](https://getbootstrap.com/docs/5.1/getting-started/introduction/#starter-template), que copiaremos y pegaremos en un documento nuevo creado en un editor de código fuente, documento que guardaremos con el nombre `ejemplo.html`: 
 
