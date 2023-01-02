@@ -10,7 +10,7 @@ Por la modalidad a considerar, antes la segunda clase también corresponde revis
 
 - PRIMERO: [1.1: ¡Código! Programación para Principiantes con p5.js](https://www.youtube.com/watch?v=yPWkPOfnGsw)
 
-- SEGUNDO: Leer lo que sigue (bajo el título de [Teoría](https://github.com/profesorfaco/front-2023-2/tree/main/sesion_01#teor%C3%ADa))
+- SEGUNDO: Leer lo que sigue (bajo el título de [Teoría](#teor%C3%ADa))
 
 - TERCERO: Leer [JavaScript Para Gatos: Una introducción para nuevos programadores](https://jsparagatos.com/) hasta el subtítulo *Código de terceros*.
 
