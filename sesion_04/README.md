@@ -4,6 +4,14 @@
 
 ### Jueves 6 de abril → sesion_04 → HTML y CSS con Bootstrap v5 (1 de 2)
 
+Por la modalidad a aula invertida, antes la cuarta sesión corresponde revisar algo de contenido en EL SIGUIENTE ORDEN:
+
+- PRIMERO: [Aprende Bootstrap en 10 minutos](https://youtu.be/XXllX0A_9KQ)
+
+- SEGUNDO: Leer lo que sigue (bajo el título de [Teoría](#teor%C3%ADa))
+
+- TERCERO: Pendiente
+
 - - - - - - - - 
 
 #### Teoría
@@ -63,7 +71,7 @@ Los tamaños en pixeles de cada pantalla los pueden revisar en los [*Breakpoints
 
 - - - - - - 
 
-#### Exploración práctica
+#### Práctica (horas directas)
 
 En el sitio web oficial de Bootstrap encontrarán [documentación detallada](https://getbootstrap.com/docs/5.1/getting-started/introduction/) sobre cada clase, utilidad y componente que ofrece. Allí también encontrarán [ejemplos](https://getbootstrap.com/docs/5.1/examples/). 
 
