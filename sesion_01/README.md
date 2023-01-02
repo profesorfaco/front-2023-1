@@ -6,15 +6,15 @@
 
 En el [README.md](https://github.com/profesorfaco/front-2023-1#readme) que se encuentra al acceder a este repositorio, pudieron leer que para este electivo **corresponde considerar la modalidad de "aula invertida" (*flipped classroom* en inglés)**. 
 
-Por la modalidad a considerar, cada estudiante debe revisar, antes de la primera sesión, el texto que sigue y tres videos en YouTube. 
+Por la modalidad a considerar, cada estudiante debe revisar, antes de la primera sesión, el texto que sigue y dos videos en YouTube. 
 
 Lo recomendable es hacer la revisión en EL SIGUIENTE ORDEN:
 
-- PRIMERO: [1.1: Introducción - Git y GitHub para Poetas](https://youtu.be/BCQHnlnPusY)
+- PRIMERO: Ver el video [1.1: Introducción - Git y GitHub para Poetas](https://youtu.be/BCQHnlnPusY)
 
 - SEGUNDO: Leer lo que sigue (bajo el título de [Teoría](#teor%C3%ADa))
 
-- TERCERO: [1.2: Editor Web p5.js - Tutorial p5.js](https://youtu.be/MXs1cOlidWs) ¡Pero no hagan el *sign up* referido en el video! Mejor sería hacer el *log in* con cuenta personal en GitHub. 
+- TERCERO: Ver el video [1.2: Editor Web p5.js - Tutorial p5.js](https://youtu.be/MXs1cOlidWs) ¡Pero no hagan el *sign up* referido en el video! Mejor sería hacer el *log in* con cuenta personal en GitHub. 
 
 - - - - - - - - 
 
