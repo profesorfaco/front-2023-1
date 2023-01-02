@@ -10,7 +10,7 @@ Por la modalidad a aula invertida, antes la cuarta sesión corresponde revisar a
 
 - SEGUNDO: Leer lo que sigue (bajo el título de [Teoría](#teor%C3%ADa))
 
-- TERCERO: Pendiente
+- TERCERO: [Bootstrap grid examples](https://getbootstrap.com/docs/5.3/examples/grid/) (en inglés)
 
 - - - - - - - - 
 
