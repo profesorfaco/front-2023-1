@@ -6,9 +6,9 @@
 
 - - - - - - - - 
 
-Para la evaluación corresponde editar [los archivos](https://profesorfaco.github.io/front-2023-1/sesion_03/) en esta carpeta ([sesion_03](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_03)) contenida en el repositorio de la segunda versión del Electivo de Introducción al Desarrollo Front End con HTML, CSS y JavaScript:
+Para la evaluación corresponde editar [los archivos](https://profesorfaco.github.io/front-2023-1/sesion_03/) en esta carpeta (sesion_03) contenida en el repositorio de la segunda versión del Electivo de Introducción al Desarrollo Front End con HTML, CSS y JavaScript:
 
-- [`index.html`](https://github.com/profesorfaco/front-2023-1/blob/main/sesion_03/index.html) con un texto que presente lo que se encontrará en las páginas interiores. Algo muy parecido a lo hecho en la sesión recién pasada, donde escribieron las razones para tomar y seguir en el electivo; ahora son las razones para adaptar determinados ejemplos de p5.js
+- [`index.html`](https://github.com/profesorfaco/front-2023-1/blob/main/sesion_03/index.html) con un [emoji](https://www.w3schools.com/charsets/ref_emoji.asp) siguiendo a la posición del mouse.
 
 - [`page-1.html`](https://github.com/profesorfaco/front-2023-1/blob/main/sesion_03/page_1.html), [`page-2.html`](https://github.com/profesorfaco/front-2023-1/blob/main/sesion_03/page_2.html) y [`page-3.html`](https://github.com/profesorfaco/front-2023-1/blob/main/sesion_03/page_3.html), cada cual con [una adaptación de un ejemplo distinto de p5.js](https://p5js.org/es/examples/) 
 
