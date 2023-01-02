@@ -6,7 +6,7 @@
 
 Repitamos una idea. En el [README.md](https://github.com/profesorfaco/front-2023-1#readme) que se encuentra al acceder a este repositorio, pudieron leer que para este electivo **corresponde considerar la modalidad de "aula invertida" (*flipped classroom* en inglés)**, modalidad que saca la exposición de contenidos de las horas directas y la confía al tiempo de aprendizaje autónomo de cada estudiante. 
 
-Por la modalidad a considerar, antes la segunda clase también corresponde revisar algo de contenido en EL SIGUIENTE ORDEN:
+Por la modalidad a considerar, antes la segunda sesión también corresponde revisar algo de contenido en EL SIGUIENTE ORDEN:
 
 - PRIMERO: [1.1: ¡Código! Programación para Principiantes con p5.js](https://www.youtube.com/watch?v=yPWkPOfnGsw)
 
