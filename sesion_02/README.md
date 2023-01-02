@@ -8,7 +8,7 @@ Repitamos una idea. En el [README.md](https://github.com/profesorfaco/front-2023
 
 Por la modalidad a considerar, antes la segunda clase también corresponde revisar algo de contenido en EL SIGUIENTE ORDEN:
 
-- PRIMERO: [1.3: Figuras y Dibujo - Tutorial p5.js](https://youtu.be/c3TeLi6Ns1E)
+- PRIMERO: [1.1: ¡Código! Programación para Principiantes con p5.js](https://www.youtube.com/watch?v=yPWkPOfnGsw)
 
 - SEGUNDO: Leer lo que sigue (bajo el título de [Teoría](https://github.com/profesorfaco/front-2023-2/tree/main/sesion_01#teor%C3%ADa))
 
@@ -44,7 +44,7 @@ Y solo para evitar pensar en ellos como lenguajes, conviene mencionar tres *fram
 
 - - - - - - - - - - - - - - 
 
-#### Exploración práctica
+#### Práctica (horas directas)
 
 Volvamos al [editor web de p5.js](https://editor.p5js.org/) y desplieguen la caja donde se ven los tres archivos:
 
