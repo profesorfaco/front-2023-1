@@ -20,7 +20,7 @@ Lo recomendable es hacer la revisión en EL SIGUIENTE ORDEN:
 
 #### Teoría
 
-Para lanzarnos a la piscina sin haber averiguado su profundidad, aprovecharemos "el flotador" que nos ofrece [p5.js](https://p5js.org/es/):
+Para lanzarnos a la piscina aún sin haber averiguado su profundidad, aprovecharemos "el flotador" que nos ofrece [p5.js](https://p5js.org/es/):
 
 > ¡**p5.js** es una biblioteca de JavaScript para la programación creativa, que busca hacer que programar sea accesible e inclusivo para artistas, diseñadores, educadores, principiantes y cualquier otra persona! **p5.js** es gratuito y de código abierto porque creemos que el software y las herramientas para aprenderlo deben ser accesibles para todos.
 
@@ -79,7 +79,7 @@ Estirando la analogía: Podríamos encontrar inconcruencias en los despliegue de
 
 - - - - - - - - - - - - -
 
-#### Exploración práctica
+#### Práctica (horas directas)
 
 De manera presencial, en nuestras 3 horas directas, continuaremos la exploración del *conjunto completo de funcionalidades para dibujar* que ofrecer p5.js. Lo haremos desde el [editor web de p5.js](https://editor.p5js.org/), apoyándonos en la página oficial de [referencias](https://p5js.org/es/reference/) de esta biblioteca de JavaScript para la programación creativa.
 
