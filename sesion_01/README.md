@@ -6,7 +6,7 @@
 
 En el [README.md](https://github.com/profesorfaco/front-2023-1#readme) que se encuentra al acceder a este repositorio, pudieron leer que para este electivo **corresponde considerar la modalidad de "aula invertida" (*flipped classroom* en inglés)**. 
 
-Por la modalidad a considerar, antes de la primera clase cada estudiante debe revisar el texto que sigue y tres videos en YouTube. 
+Por la modalidad a considerar, cada estudiante debe revisar, antes de la primera sesión, el texto que sigue y tres videos en YouTube. 
 
 Lo recomendable es hacer la revisión en EL SIGUIENTE ORDEN:
 
