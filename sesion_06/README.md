@@ -2,7 +2,7 @@
 
 ### Unidad II: Tecnologías fundamentales para la construcción de páginas Web
 
-### Jueves 20 de abril → sesion_06 →  JavaScript con Bootstrap v5
+#### Jueves 20 de abril → sesion_06 →  JavaScript con Bootstrap v5
 
 - - - - - - - - 
 
