@@ -2,7 +2,7 @@
 
 ### Unidad II: Tecnologías fundamentales para la construcción de páginas Web
 
-### Jueves 13 de abril → sesion_05 → HTML y CSS con Bootstrap v5 (2 de 2)
+#### Jueves 13 de abril → sesion_05 → HTML y CSS con Bootstrap v5 (2 de 2)
 
 - - - - - - - - 
 
