@@ -4,6 +4,8 @@
 
 #### Jueves 6 de abril → sesion_04 → HTML y CSS con Bootstrap v5 (1 de 2)
 
+- - - - - - - - 
+
 Por la modalidad a aula invertida, antes la cuarta sesión corresponde revisar algo de contenido en EL SIGUIENTE ORDEN:
 
 - PRIMERO: [Aprende Bootstrap en 10 minutos](https://youtu.be/XXllX0A_9KQ)
@@ -11,8 +13,6 @@ Por la modalidad a aula invertida, antes la cuarta sesión corresponde revisar a
 - SEGUNDO: Leer lo que sigue (bajo el título de [Teoría](#teor%C3%ADa))
 
 - TERCERO: [Bootstrap grid examples](https://getbootstrap.com/docs/5.3/examples/grid/) (en inglés)
-
-- - - - - - - - 
 
 #### Teoría
 
