@@ -44,7 +44,7 @@ Para las 15 sesiones del electivo de **Introducción al Desarrollo Front End con
 
 **Unidad I: Bocetos de introducción a la programación**
 
-- Jueves 16 de marzo → [sesion_01](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_01) → p5.js
+- Jueves 16 de marzo → [sesion_01](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_01) → p5.js (una biblioteca de JavaScript)
 
 - Jueves 23 de marzo → [sesion_02](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_02) → HTML, CSS y p5.js (una biblioteca de JavaScript)
 
