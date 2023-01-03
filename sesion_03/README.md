@@ -2,7 +2,7 @@
 
 ### Unidad I: Bocetos de introducción a la programación
 
-### Jueves 30 de marzo → sesion_03 → Evaluación de cierre Nº1
+#### Jueves 30 de marzo → sesion_03 → Evaluación de cierre Nº1
 
 - - - - - - - - 
 
