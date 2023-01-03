@@ -2,7 +2,9 @@
 
 ### Unidad I: Bocetos de introducción a la programación
 
-### Jueves 23 de marzo → sesion_02 → HTML, CSS y p5.js (una biblioteca de JavaScript)
+#### Jueves 23 de marzo → sesion_02 → HTML, CSS y p5.js (una biblioteca de JavaScript)
+
+- - - - - - - 
 
 Repitamos una idea. En el [README.md](https://github.com/profesorfaco/front-2023-1#readme) que se encuentra al acceder a este repositorio, pudieron leer que para este electivo **corresponde considerar la modalidad de "aula invertida" (*flipped classroom* en inglés)**, modalidad que saca la exposición de contenidos de las horas directas y la confía al tiempo de aprendizaje autónomo de cada estudiante. 
 
