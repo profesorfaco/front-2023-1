@@ -80,7 +80,7 @@ Para las 15 sesiones del electivo de **Introducción al Desarrollo Front End con
 
 - **Jueves 29 de junio → [sesion_15](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_15) → Evaluación de cierre Nº3**  
 
-**Para cada sesión, exceptuando las tres de evaluación de cierre, corresponde considerar la modalidad de "aula invertida" (*flipped classroom* en inglés). Esto permitirá unas horas directas más dialogantes y prácticas.** Esta modalidad es más efectiva cuando cada estudiante:
+**Para cada sesión, exceptuando las tres de evaluación de cierre, corresponde considerar la nota que pudieron ver al momento de inscribir el curso: *Los electivos tienen una dedicación para los estudiantes de 4,5 horas en total: 3 horas en aula y 1,5 horas de trabajo autónomo*. Considerando tales horas, el electivo utiliza la modalidad de "aula invertida" (*flipped classroom* en inglés). Esto permitirá unas horas directas más dialogantes y prácticas.** Esta modalidad es más efectiva cuando cada estudiante:
 
 - usa las horas indirectas (autónomas) para la revisión del contenido teórico; 
 
