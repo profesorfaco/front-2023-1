@@ -24,7 +24,7 @@ Cada estudiante necesitará:
 
   - navegador web: [Chrome](https://www.google.com/intl/es-419/chrome/) o [Firefox](https://www.mozilla.org/es-CL/firefox/new/). No utilizaremos Safari. Es muy necesario que desactive los traductores en su navegador, porque la traducción automática (y forzada) al español puede complicar un trabajo que se hace, principalmente, en inglés. También es necesario que sepa como "Ver el código fuente de la página", [inspeccionar elementos](https://support.hostinger.es/es/articles/2333029-como-inspeccionar-los-elementos-del-sitio-web) y [abrir consola](https://transferwise.com/es/help/articles/2954851/como-abrir-la-consola-de-tu-navegador).
 
-  - editor de código fuente: sea que esté instalado (ej. [Sublime Text](https://www.sublimetext.com/), [Atom](https://github.com/atom/atom), [Brackets](https://brackets.io/)) o entre sus favoritos en el navegador (ej. [Phoenix Code Editor](https://phcode.dev/))
+  - editor de código fuente: sea que esté instalado (ej. [Sublime Text](https://www.sublimetext.com/)) en su computador o entre sus favoritos en el navegador (ej. [Phoenix Code Editor](https://phcode.dev/))
 
 - - - - - - - 
 
