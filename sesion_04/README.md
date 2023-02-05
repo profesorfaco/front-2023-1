@@ -86,7 +86,7 @@ Metámonos al código fuente de tal ejemplo, para compiarlo completo y luego peg
 
 Una vez tengamos la página funcionando, viendose idéntica al ejemplo en línea, podríamos agregar [texto](https://www.lipsum.com/) e [imágenes](https://picsum.photos/) y luego hacer algo respecto del código que no lleguemos a usar: 
 
-**Boostrap nos ofrece un estilo CSS muy grande, de 11.222 líneas**. Todas esas líneas son leídas por el navegador antes de mostrar la página. Pero rara vez usamos tanto (le pedimos al navegador leer más de diez mil líneas en cada carga de página creada con Boostrap, cuando usamos apenas una centena de ellas). Si queremos limitar la lectura a lo estrictamente necesario, y con ello mejorar el rendimiento de lo preparado con Bootstrap, conviene aplicar algunos trucos: https://css-tricks.com/how-do-you-remove-unused-css-from-a-site/ 
+**Boostrap nos ofrece un estilo CSS muy grande, de 11.783 líneas cuando no está minimizado**. Todas esas líneas tienen que ser leídas por el navegador antes de mostrar la página. Pero rara vez usamos tanto (le pedimos al navegador leer más de diez mil líneas en cada carga de página creada con Boostrap, cuando usamos apenas una centena de ellas). Si queremos limitar la lectura a lo estrictamente necesario, y con ello mejorar el rendimiento de lo preparado con Bootstrap, conviene aplicar algunos trucos: https://css-tricks.com/how-do-you-remove-unused-css-from-a-site/ 
 
 Entre los trucos del artículo recién referido, se menciona https://purifycss.online/ - Cuando tengamos nuestro trabajo en línea, con GitHub Pages, contaremos con una Website URL para darle un "Clean up CSS". Luego haremos unos cambios en los documentos en el repositorio, para aprovechar el "download combined, purified & minified CSS".
 
