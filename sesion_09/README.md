@@ -23,9 +23,9 @@ La persona que no escucha más que un estilo de música, termina haciendo lo mis
 
 - **Antecedente**: lo que se ha hecho antes, en el mismo ámbito, para los mismos usuarios específicos.
 
-- **Referente**: lo que, hecho de otro lugar con distinto objetivo, pueda resultar atractivo, práctico y razonable a usuarios específicos.
+- **Referente**: lo que, más allá de lo diseñado, pueda resultar atractivo, práctico y/o razonable a usuarios específicos.
 
-Escribí "atractivo, práctico y razonable" para aludir, respectivamente, a los niveles de procesamiento visceral, conductual y re-flexivo que presenta Donald A. Norman en su libro *Emotional Design* (2004):
+Escribí "atractivo, práctico y/o razonable" para aludir, respectivamente, a los niveles de procesamiento visceral, conductual y re-flexivo que presenta Donald A. Norman en su libro *Emotional Design* (2004):
 
 > the automatic, prewired layer, called the *visceral level*; the part that contains the brain processes that control everyday behavior, know as the *behavioral level*; and the comtemplative part of the brain, on the *reflective level* (p.21) 
 
