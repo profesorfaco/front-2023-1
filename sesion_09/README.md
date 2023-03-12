@@ -21,7 +21,7 @@ La persona que no escucha más que un estilo de música, termina haciendo lo mis
 
 **Para ampliar tal repertorio, conviene buscar antecedentes y referentes para cada proyecto**:
 
-- **Antecedente**: lo que se ha hecho antes, en el mismo ámbito, para los mismos usuarios específicos.
+- **Antecedente**: lo que se ha diseñado antes, en el mismo ámbito, para los mismos usuarios específicos.
 
 - **Referente**: lo que, más allá de lo diseñado, pueda resultar atractivo, práctico y/o razonable a usuarios específicos.
 
