@@ -40,7 +40,7 @@ Según el calendario académico del año 2023, las actividades académicas de pr
 
 Con tales fechas, las tres carreras en la Facultad de Arquitectura y Urbanismo (FAU) distribuyen las actividades docente para proteger tiempos de dedicación exclusiva para algunos cursos. Por tal razón, las habituales 18 sesiones de asignaturas semestrales se transforman en 15, con inicios y cierres en desfase.
 
-Para las 15 sesiones del electivo de **Introducción al Desarrollo Front End con HTML, CSS y JavaScript** se dividen de la siguiente manera:
+Las 15 sesiones del electivo de **Introducción al Desarrollo Front End con HTML, CSS y JavaScript** se dividen de la siguiente manera:
 
 **Unidad I: Bocetos de introducción a la programación**
 
