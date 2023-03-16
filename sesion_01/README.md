@@ -85,6 +85,28 @@ Estirando la analogía: Podríamos encontrar inconcruencias en los despliegue de
 
 De manera presencial, en nuestras 3 horas directas, continuaremos la exploración del *conjunto completo de funcionalidades para dibujar* que ofrecer p5.js. Lo haremos desde el [editor web de p5.js](https://editor.p5js.org/), apoyándonos en la página oficial de [referencias](https://p5js.org/es/reference/) de esta biblioteca de JavaScript para la programación creativa.
 
+Para partir:
+
+- https://editor.p5js.org/profesorfaco/sketches/H3qSScg5G
+
+Para copiar un emoji a usar como texto:
+
+- https://www.w3schools.com/charsets/ref_emoji.asp
+
+- https://www.w3schools.com/charsets/ref_emoji_smileys.asp
+
+- https://www.w3schools.com/charsets/ref_emoji_skin_tones.asp
+
+Para centrar el elemento de html con `id="este"`:
+
+- https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/
+
+Para lo demás: 
+
+- La ya mencionada página oficial de referencias de p5.js - https://p5js.org/es/reference/
+
+- Referencia CSS de MDN Web Docs - https://developer.mozilla.org/es/docs/Web/CSS/Reference
+
 - - - - - - - 
 
 ###### [SIGUIENTE SESIÓN →](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_02)
