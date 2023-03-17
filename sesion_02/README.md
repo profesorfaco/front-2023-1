@@ -10,7 +10,7 @@ Repitamos una idea. En el [README.md](https://github.com/profesorfaco/front-2023
 
 Por la modalidad a considerar, antes la segunda sesión también corresponde revisar algo de contenido en EL SIGUIENTE ORDEN:
 
-- PRIMERO: [1.1: ¡Código! Programación para Principiantes con p5.js](https://www.youtube.com/watch?v=yPWkPOfnGsw)
+- PRIMERO: [1.1: [Hosting a p5.js sketch with GitHub Pages](https://youtu.be/ZneWjyn18e8) (está en inglés; no es necesario seguir viéndolo después del 8:54)
 
 - SEGUNDO: Leer lo que sigue (bajo el título de [Teoría](#teor%C3%ADa))
 
@@ -20,15 +20,13 @@ Por la modalidad a considerar, antes la segunda sesión también corresponde rev
 
 #### Teoría
 
-En esta sesión vamos a echarle un primer vistazo al fondo de la piscina a la que ya nos lanzamos.
-
-En el [editor web de p5.js](https://editor.p5js.org/) podrán encontrar a la izquierda, justo debajo de *play*, este símbolo: `>`. Después del clic se desplegará una ventana de izquierda a derecha, dentro de la que se ven tres archivos:
+Ya sabemos que en el [editor web de p5.js](https://editor.p5js.org/) podemos encontrar justo debajo de *play*, este símbolo: `>`. Después del clic en tal símbolo se despliega una ventana de izquierda a derecha, dentro de la que se ven tres archivos:
 
 - `index.html` 
 - `sketch.js` 
 - `style.css`
 
-Si volvemos a la analogía del photoshopeo de la sesión pasada: En el `index.html` se describen los elementos de la captura original a mostrar, en el `style.css` se describe cómo mostrarlos y en el `sketch.js` se programa el "photoshopeo" (eso que se muestre, bajo ciertas condiciones, que puede ser distinto de lo que se describe originalmente en el `index.html`).
+En el `index.html` se describen los elementos de la captura original a mostrar, en el `style.css` se describe cómo mostrarlos y en el `sketch.js` se programa el "photoshopeo" (eso que se muestra, bajo ciertas condiciones, que puede ser distinto de lo que se describe originalmente en el `index.html`).
 
 No corresponde pensar en tales `.html`, `.css` y `.js` como extensiones de archivos que deben abrirse en programas determinados, así como el `.psd` se abre y edita con Photoshop y el `.ai` con Illustrator. HTML, CSS y JavaScript son lenguajes que se pueden escribir en cualquier editor de código fuente, incluso con un block de notas: ¡Guardamos lo escrito como `.txt`, luego cambiamos la extensión por la que corresponda y listo!
 
@@ -40,6 +38,8 @@ Dos de los lenguajes mencionados sirven para describir y uno sirve para programa
 
 - **JS (JavaScript)**. Lenguaje de programación que controla el comportamiento de las páginas web (qué hace la página). Con JS se pueden escribir secuencias de instrucciones con las que una computadora realizará una tarea determinada en el navegador. Su estructura puede variar dependiendo de la lógica de cada instrucción, la [versión](https://www.w3schools.com/js/js_versions.asp) en uso, la biblioteca (*library*) de JavaScript en la que nos apoyemos, o el *framework* de programación en el que se basa el trabajo; podemos imaginar que una biblioteca es como una selección de ingredientes listos para poder preparar determinado tipo de comida, mientras que el *framework* te permite preparar un banquete si es que ya tienes suficiente experiencia en la cocina → [¿Qué es JavaScript realmente?](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics#%C2%BFqu%C3%A9_es_javascript_realmente)
 
+Es muy necesario que revisen en cada vínculo la repuesta de "¿Qué es…?", porque de allí tomaré algunas frases para las alternativas al cuestionario de interrogación del comienzo de la clase 2.
+
 - - - - - - - - - - - - - - 
 
 #### Práctica (horas directas)
@@ -49,14 +49,14 @@ Volvamos al [editor web de p5.js](https://editor.p5js.org/) y desplieguen la caj
 1. En el `index.html` pueden leer: 
 
 ```
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/p5.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/addons/p5.sound.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/addons/p5.sound.min.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
     <meta charset="utf-8" />
-
   </head>
   <body>
     <main>
