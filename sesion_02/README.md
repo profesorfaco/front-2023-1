@@ -38,7 +38,7 @@ Dos de los lenguajes mencionados sirven para describir y uno sirve para programa
 
 - **JS (JavaScript)**. Lenguaje de programación que controla el comportamiento de las páginas web (qué hace la página). Con JS se pueden escribir secuencias de instrucciones con las que una computadora realizará una tarea determinada en el navegador. Su estructura puede variar dependiendo de la lógica de cada instrucción, la [versión](https://www.w3schools.com/js/js_versions.asp) en uso, la biblioteca (*library*) de JavaScript en la que nos apoyemos, o el *framework* de programación en el que se basa el trabajo; podemos imaginar que una biblioteca es como una selección de ingredientes listos para poder preparar determinado tipo de comida, mientras que el *framework* te permite preparar un banquete si es que ya tienes suficiente experiencia en la cocina → [¿Qué es JavaScript realmente?](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/JavaScript_basics#%C2%BFqu%C3%A9_es_javascript_realmente)
 
-Es muy necesario que revisen en cada vínculo la repuesta de "¿Qué es…?", porque de allí tomaré algunas frases para las alternativas al cuestionario de interrogación del comienzo de la clase 2.
+Es muy necesario que revisen en cada vínculo la repuesta de "¿Qué es…?", porque de allí tomaré algunas frases para las alternativas al cuestionario de interrogación que podrán responder entre 14:30 y 15:15 hrs.
 
 - - - - - - - - - - - - - - 
 
