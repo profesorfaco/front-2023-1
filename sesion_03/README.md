@@ -6,7 +6,7 @@
 
 - - - - - - - - 
 
-Para la evaluación corresponde **editar** [los archivos en esta carpeta (sesion_03)](https://profesorfaco.github.io/front-2023-1/sesion_03/), atendiendo a lo que se incluye en la siguiente PAUTA:
+Para la evaluación corresponde **editar [los archivos en esta carpeta (sesion_03)](https://profesorfaco.github.io/front-2023-1/sesion_03/)**, atendiendo a lo que se incluye en la siguiente PAUTA:
 
 | Nro. | Ítem | Puntaje |
 |:----:|:------------|:-------:|
