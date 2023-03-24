@@ -17,7 +17,7 @@ Para la evaluación corresponde **editar** [los archivos en esta carpeta (sesion
 | 5 | `page-3.html` - Pendiente hasta el 30/03/2023 | 1.0 |
 | 6 | `page-4.html` - Pendiente hasta el 30/03/2023 | 1.0 |
 | 7 | Punto base | 1.0  |
-| —  | **TOTAL** | **7** |
+| —  | **TOTAL** | **7.0** |
 
 Una vez editados, deben colocarlos en [un nuevo repositorio de GitHub](https://docs.github.com/es/get-started/quickstart/create-a-repo) y asegurarse de activar [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site), y que funcione correctamente (dejen pasar unos minutos y [refresquen el navegador](https://www.elespanol.com/omicrono/software/20180428/metodo-recargar-webs-no-conoces-solucionara-problemas/303220419_0.html)).
 								
