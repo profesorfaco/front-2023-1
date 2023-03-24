@@ -6,15 +6,7 @@
 
 - - - - - - - - 
 
-Para la evaluación corresponde editar [los archivos](https://profesorfaco.github.io/front-2023-1/sesion_03/) en esta carpeta (sesion_03) contenida en el repositorio de la segunda versión del Electivo de Introducción al Desarrollo Front End con HTML, CSS y JavaScript:
-
-- [`index.html`](https://github.com/profesorfaco/front-2023-1/blob/main/sesion_03/index.html) con un [emoji](https://www.w3schools.com/charsets/ref_emoji.asp) moviéndose por la pantalla, que invierta su dirección al golpear el borde del canvas, además de un párrafo centrado sobre el canvas con un texto breve que incluya su nombre y apellido.
- 
-- [`page-1.html`](https://github.com/profesorfaco/front-2023-1/blob/main/sesion_03/page_1.html), [`page-2.html`](https://github.com/profesorfaco/front-2023-1/blob/main/sesion_03/page_2.html) y [`page-3.html`](https://github.com/profesorfaco/front-2023-1/blob/main/sesion_03/page_3.html), cada cual con [una adaptación de un ejemplo distinto de p5.js](https://p5js.org/es/examples/) 
-
-Una vez editados, deben colocarlos en [un nuevo repositorio de GitHub](https://docs.github.com/es/get-started/quickstart/create-a-repo) y asegurarse de activar [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site), y que funcione correctamente (dejen pasar unos minutos y [refresquen el navegador](https://www.elespanol.com/omicrono/software/20180428/metodo-recargar-webs-no-conoces-solucionara-problemas/303220419_0.html)).
-
-Lo que esté en línea al terminar el horario de la clase será evaluado con la siguiente PAUTA:
+Para la evaluación corresponde editar [los archivos](https://profesorfaco.github.io/front-2023-1/sesion_03/) en esta carpeta (sesion_03), atendiendo a lo que se incluye en la siguiente PAUTA:
 
 | Nro. | Ítem | Puntaje |
 |:----:|:------------|:-------:|
@@ -26,6 +18,8 @@ Lo que esté en línea al terminar el horario de la clase será evaluado con la 
 | 6 | Pendiente hasta el 30/03/2023 | 1.0 |
 | 1 | Punto base | 1.0  |
 | —  | **TOTAL** | **24** |
+
+Una vez editados, deben colocarlos en [un nuevo repositorio de GitHub](https://docs.github.com/es/get-started/quickstart/create-a-repo) y asegurarse de activar [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site), y que funcione correctamente (dejen pasar unos minutos y [refresquen el navegador](https://www.elespanol.com/omicrono/software/20180428/metodo-recargar-webs-no-conoces-solucionara-problemas/303220419_0.html)).
 								
 								
 - - - - - - -
