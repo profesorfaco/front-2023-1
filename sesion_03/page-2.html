@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.js"></script>
         <link rel="stylesheet" type="text/css" href="style.css" />
-        <title>INDEX</title>
+        <title>SEGUNDO</title>
         <meta name="description" content="Evaluación de cierre de la Unidad I: Bocetos de introducción a la programación" />
     </head>
     <body>
@@ -18,23 +18,21 @@
         </nav>
         <main></main>
         <aside>
-            <p>
-                ¡Hola! Mi nombre es <span class="miNombre"></span> y lo que encuentras en este sitio web son algunos bocetos de introducción a la programación. En cada uno usé <strong>p5.js</strong>, que es <span id="miTexto"></span>
-            </p>
+            <p>Pendiente…</p>
         </aside>
         <script>
             function setup() {
                 createCanvas(windowWidth, windowHeight).position(0, 0).style("z-index", -1);
-                selectAll('a')[0].addClass('aqui');
+                selectAll('a')[2].addClass('aqui');
                 selectAll(".miNombre").forEach(n => {n.html("NOMBRE APELLIDO")});
-                select("#miTexto").html("EXPLICA P5.JS EN POCAS PALABRAS");
             }
 
             function draw() {
                 background('#212529');
-                textSize(50);
+                fill('#dddddd');
                 textAlign(CENTER, CENTER);
-                text("😈", mouseX, mouseY);
+                textSize(20);
+                text("R 33 G 37 B 41", windowWidth/2, windowHeight-40);
             }
 
             function windowResized() {
