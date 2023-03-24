@@ -18,18 +18,20 @@
         </nav>
         <main></main>
         <script>
+            var img;
             function setup() {
                 createCanvas(windowWidth, windowHeight).position(0, 0).style("z-index", -1);
-                selectAll('a')[3].addClass('aqui');
-                selectAll(".miNombre").forEach(n => {n.html("NOMBRE APELLIDO")});
+                selectAll("a")[3].addClass("aqui");
+                selectAll(".miNombre").forEach((n) => {
+                    n.html("Nombre Apellido");
+                });
+                img = loadImage("https://raw.githubusercontent.com/profesorfaco/front-2023-1/main/sesion_03/cat.jpg");
             }
 
             function draw() {
-                background('#212529');
-                fill('#dddddd');
-                textAlign(CENTER, CENTER);
-                textSize(20);
-                text("Pendiente…", mouseX, mouseY);
+                background("#212529");
+                imageMode(CENTER)
+                image(img, mouseX, mouseY);
             }
 
             function windowResized() {

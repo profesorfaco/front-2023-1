@@ -19,21 +19,21 @@
         <main></main>
         <script>
             var img;
-            function preload() {
-                img = loadImage("https://raw.githubusercontent.com/profesorfaco/front-2023-1/main/sesion_03/dvd.png");
-            }
             function setup() {
                 createCanvas(windowWidth, windowHeight).position(0, 0).style("z-index", -1);
                 selectAll("a")[4].addClass("aqui");
                 selectAll(".miNombre").forEach((n) => {
-                    n.html("NOMBRE APELLIDO");
+                    n.html("Nombre Apellido");
                 });
+                img = loadImage("https://raw.githubusercontent.com/profesorfaco/front-2023-1/main/sesion_03/dvd.png");
+                colorMode(HSB,360,100,100,100);
+                tint(random(0,360),100,100,50);
             }
 
             function draw() {
-                background("#212529");
+                background("#111");
                 imageMode(CENTER);
-                image(img, mouseX, mouseY, 120, 120);
+                image(img, mouseX, mouseY,150,150);
             }
 
             function windowResized() {

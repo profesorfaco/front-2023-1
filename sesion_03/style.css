@@ -10,7 +10,6 @@ body {
     min-height: 100%;
     background:#212529;
     color:rgba(255,255,255,0.8);
-    cursor: crosshair;
 }
 
 nav {
@@ -23,16 +22,16 @@ nav {
 }
 
 nav a{
-    color:rgba(255,255,255,0.8)
+    color:rgba(255,255,255,0.8);
 }
 
 nav a:hover{
-    color:rgba(255,255,255,1)    
+    color:rgba(255,255,255,1);    
 }
 
 nav a.aqui{
     text-decoration: none;
-    color:rgba(255,255,255,0.6)
+    color:rgba(255,255,255,0.6);
 }
 
 canvas {
@@ -53,11 +52,32 @@ aside {
     }
 }
 
-aside p {
-    font-size: 1.38rem;
-    line-height: 1.38;
+div {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:80vw;
 }
 
-aside span{
+@media (orientation: landscape) {
+    div {
+        width: 40vw;
+    }
+}
+
+aside p, div p {
+    font-size: 1.38rem;
+    line-height: 1.38;
+    margin-bottom:1rem;
+    text-shadow: 0 0 3px rgba(0,0,0,0.3);
+}
+
+div p input{
+    float:right;
+    margin-top:.5rem;
+}
+
+aside span, div span{
     font-weight: bold;
 }

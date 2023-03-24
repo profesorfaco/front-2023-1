@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.js"></script>
         <link rel="stylesheet" type="text/css" href="style.css" />
-        <title>SEGUNDO</title>
+        <title>PRIMERO</title>
         <meta name="description" content="Evaluación de cierre de la Unidad I: Bocetos de introducción a la programación" />
     </head>
     <body>
@@ -17,22 +17,29 @@
             <a href="page-4.html">Cuarto</a>
         </nav>
         <main></main>
-        <aside>
-            <p>Pendiente…</p>
-        </aside>
+        <div>
+            <p id="primerP">Ajuste de <em>Red</em></p>
+            <p id="segundoP">Ajuste de <em>Green</em></p>
+            <p id="tercerP">Ajuste de <em>Blue</em></p>
+        </div>
         <script>
+            var sliderR;
+            var sliderG;
+            var sliderB;
             function setup() {
                 createCanvas(windowWidth, windowHeight).position(0, 0).style("z-index", -1);
-                selectAll('a')[2].addClass('aqui');
-                selectAll(".miNombre").forEach(n => {n.html("NOMBRE APELLIDO")});
+                selectAll("a")[2].addClass("aqui");
+                selectAll(".miNombre").forEach((n) => {
+                    n.html("Nombre Apellido");
+                });
             }
 
             function draw() {
-                background('#212529');
-                fill('#dddddd');
+                background(0, 0, 0);
+                fill("#dddddd");
                 textAlign(CENTER, CENTER);
                 textSize(20);
-                text("R 33 G 37 B 41", windowWidth/2, windowHeight-40);
+                text("R " + "número" + " G " + "número" + " B " + "número", windowWidth / 2, windowHeight - 40);
             }
 
             function windowResized() {
