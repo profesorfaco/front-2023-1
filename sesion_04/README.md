@@ -71,7 +71,7 @@ Pero podemos indicar excepciones que respondan al tamaño de ventana de navegado
 <div class="col-md-6 bg-info-subtle"><p>Bueno, ya.</p></div> 
 ```
 
-Para vetanas más angostas que la mediana se asumirá que cada división toma 12 columnas (todo el ancho disponible). Por eso quedará la pregunta arriba y la respuesta abajo cuando el ancho de la ventana del navegador sea chica o muy chica. 
+Para vetanas más angostas que la mediana, se asumirá que cada división toma 12 columnas (todo el ancho disponible). Por eso quedará la pregunta arriba y la respuesta abajo cuando el ancho de la ventana del navegador sea chica o muy chica. 
 
 Los tamaños en pixeles de cada pantalla los pueden revisar en los [*Breakpoints* de Bootstrap](https://getbootstrap.com/docs/5.3/layout/breakpoints/#available-breakpoints). Y en el mismo lugar (en los Docs de Bootstrap) encontrarán todas las referencias que necesiten para poder utilizare este *framework* que nos permitirá construir, rápidamente, sitios responsivos.
 
