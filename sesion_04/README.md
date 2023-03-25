@@ -8,11 +8,11 @@
 
 Por la modalidad a aula invertida, antes la cuarta sesión corresponde revisar algo de contenido en EL SIGUIENTE ORDEN:
 
-- PRIMERO: [Aprende Bootstrap en 10 minutos](https://youtu.be/XXllX0A_9KQ)
-
 - SEGUNDO: Leer lo que sigue (bajo el título de [Teoría](#teor%C3%ADa))
 
-- TERCERO: [Bootstrap grid examples](https://getbootstrap.com/docs/5.3/examples/grid/) (en inglés)
+- PRIMERO: Ver el video [Aprende Bootstrap en 10 minutos](https://youtu.be/XXllX0A_9KQ)
+
+- TERCERO: Consultar la página [Bootstrap grid examples](https://getbootstrap.com/docs/5.3/examples/grid/) (en inglés)
 
 - - - - - - - - 
 
@@ -28,18 +28,18 @@ Por la modalidad a aula invertida, antes la cuarta sesión corresponde revisar a
 
 Nos quedaremos con el primero de los mencionados, en su versión más reciente, la 5.3. 
 
-[Bootstrap](https://getbootstrap.com/) nos permite implementar tanto prototipos rápidos como productos acabados, esto mediante el uso de elementos HTML relacionados con [reglas de CSS predefinidas](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.css).
+[Bootstrap](https://getbootstrap.com/) nos permite implementar tanto prototipos rápidos como productos acabados, esto mediante el uso de elementos HTML relacionados con [reglas de CSS predefinidas que pueden ojear acá](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.css).
 
 Hay distintas maneras de comenzar a trabajar con Boostrap. Nosotros vamos a partir con [la rápida](https://getbootstrap.com/docs/5.3/getting-started/introduction/#quick-start): 
 
 ```
 <!doctype html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+    <title>Mi Primera Página con Bootstrap</title>
   </head>
   <body>
     <!--remplaza esto-->
@@ -49,26 +49,26 @@ Hay distintas maneras de comenzar a trabajar con Boostrap. Nosotros vamos a part
 ```
 En un documeto vacío podemos pegar el código de arriba, y luego guardar el documento con el nombre `ejemplo.html`.
 
-En el cuerpo de tal documento HTML (dentro de `<body></body>`) podemos comenzar a utilizar las clases con las que Bootstrap define el *layout*, siguiendo un principio general de tomar entre 1 y 12 columnas (`class="col"`) dentro de cada fila (`class="row"`) que, a su vez, está dentro de un contenedor (`class="container"`). 
+En el cuerpo del documento recién guardado (dentro de `<body></body>`) podemos comenzar a utilizar las clases con las que Bootstrap define el *layout*, siguiendo un principio general de tomar entre 1 y 12 columnas (`class="col"`) dentro de cada fila (`class="row"`) que, a su vez, está dentro de un contenedor (`class="container"`). 
 
 En el `ejemplo.html` pueden reemplazar el comentario `<!--reemplaza esto-->` por lo siguiente:
 
 ```
 <div class="container">
   <div class="row">
-    <div class="col-6"><p>¿Usemos Bootstrap?</p></div>
-    <div class="col-6"><p>Bueno, ya.</p></div>
+    <div class="col-6 bg-primary-subtle"><p>¿Usemos Bootstrap?</p></div>
+    <div class="col-6 bg-info-subtle"><p>Bueno, ya.</p></div>
   </div>
 </div>
 ```
 
-Si guardan y ven el resultado en un navegador web, podrán notar que en toda condición de pantalla tenemos el párrafo de `¿Usemos Boostrap?` junto al párrafo donde se lee `Bueno, ya`. Esto es así porque tomamos 6 de 12 columnas (`class="col-6"`). Esto es tomar la mitad de espacio disponible a lo ancho en tal fila (`class="row"`), que está dentro del contenedor (`class="container"`).
+Si guardan y ven el resultado en un navegador web, podrán notar que en toda condición de pantalla tienen el párrafo de `¿Usemos Boostrap?` al lado del párrafo donde se lee `Bueno, ya`. Esto es así porque tomamos 6 de 12 columnas (`class="col-6"`). Esto es tomar la mitad de espacio disponible a lo ancho en tal fila (`class="row"`), que está dentro del contenedor (`class="container"`).
 
 Pero podemos indicar excepciones que respondan al tamaño de ventana de navegador en que se despliegue la página, sea esta muy pequeña, pequeña (`-sm-`), mediana (`-md-`), grande (`-lg-`), extra grande (`-xl-`) o extra-extra grande (`-xxl-`). Por ejemplo, podemos modificar las dos clases para tomar 6 y 6 columnas desde la ventana mediana:
 
 ```
-<div class="col-md-6"><p>¿Usemos Bootstrap?</p></div>
-<div class="col-md-6"><p>Bueno, ya.</p></div> 
+<div class="col-md-6 bg-primary-subtle"><p>¿Usemos Bootstrap?</p></div>
+<div class="col-md-6 bg-info-subtle"><p>Bueno, ya.</p></div> 
 ```
 
 Para vetanas más angostas que la mediana se asumirá que cada división toma 12 columnas (todo el ancho disponible). Por eso quedará la pregunta arriba y la respuesta abajo cuando el ancho de la ventana del navegador sea chica o muy chica. 
