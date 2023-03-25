@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <!--En la siguiente línea voy por el estilo CSS que ofrece Bootstrap-->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous" />
+        <!--Estilo al que puedo agregar más reglas-->
+        <style>
+            nav {
+                backdrop-filter: blur(0.5rem);
+            }
+        </style>
+        <title>ESTO ES BOOTSTRAP</title>
+    </head>
+    <body>
+        <!--El menú fijo al tope-->
+        <nav class="navbar fixed-top navbar-expand-lg">
+            <div class="container px-5">
+                <a class="navbar-brand" href="index.html">Nombre Apellido</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu" aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarMenu">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item"><a class="nav-link" href="index.html">Portada</a></li>
+                        <li class="nav-item"><a class="nav-link" href="page-1.html">Primera</a></li>
+                        <li class="nav-item"><a class="nav-link" href="page-2.html">Segunda</a></li>
+                        <li class="nav-item"><a class="nav-link" href="page-3.html">Tercera</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!--La sección para el canvas creado con p5.js-->
+        <section class="vh-100 overflow-hidden" id="sketch"></section>
+        <!--La sección con 3 descripciones-->
+        <section class="py-5 border-bottom">
+            <div class="container px-5 my-5">
+                <div class="row gx-5">
+                    <div class="col-lg-4 mb-5 mb-lg-0">
+                        <h2 class="h4 fw-bolder">Primera</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id ipsum at est venenatis vulputate et eu nibh. Curabitur quis orci in tellus tempus semper.</p>
+                        <a class="btn btn-outline-secondary" href="page-1.html">
+                            Call to action &rarr;
+                        </a>
+                    </div>
+                    <div class="col-lg-4 mb-5 mb-lg-0">
+                        <h2 class="h4 fw-bolder">Segunda</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id ipsum at est venenatis vulputate et eu nibh. Curabitur quis orci in tellus tempus semper.</p>
+                        <a class="btn btn-outline-secondary" href="page-2.html">
+                            Call to action &rarr;
+                        </a>
+                    </div>
+                    <div class="col-lg-4">
+                        <h2 class="h4 fw-bolder">Tercera</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id ipsum at est venenatis vulputate et eu nibh. Curabitur quis orci in tellus tempus semper.</p>
+                        <a class="btn btn-outline-secondary" href="page-3.html">
+                            Call to action &rarr;
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--La sección con 3 comentarios dentro de tarjetas-->
+        <section class="py-5 border-bottom bg-light">
+            <div class="container px-5 my-5 px-5">
+                <div class="text-center mb-5">
+                    <h2 class="fw-bolder">Comentarios</h2>
+                    <p class="lead mb-0">Algunos comentarios sobre lo avanzado</p>
+                </div>
+                <div class="row">
+                    <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 mx-auto">
+                        <!-- Primer comentario-->
+                        <div class="card mb-4">
+                            <div class="card-body p-4">
+                                <p class="mb-1">🤔 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id ipsum at est venenatis vulputate et eu nibh. Curabitur quis orci in tellus tempus semper.</p>
+                                <div class="small text-muted text-end">— Nombre de quien lo dice</div>
+                            </div>
+                        </div>
+                        <!-- Segundo comentario-->
+                        <div class="card mb-4">
+                            <div class="card-body p-4">
+                                <p class="mb-1">🧐 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id ipsum at est venenatis vulputate et eu nibh. Curabitur quis orci in tellus tempus semper.</p>
+                                <div class="small text-muted text-end">— Nombre de quien lo dice</div>
+                            </div>
+                        </div>
+                        <!-- Tercer comentario-->
+                        <div class="card mb-4">
+                            <div class="card-body p-4">
+                                <p class="mb-1">😨 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id ipsum at est venenatis vulputate et eu nibh. Curabitur quis orci in tellus tempus semper.</p>
+                                <div class="small text-muted text-end">— Nombre de quien lo dice</div>
+                            </div>
+                        </div>
+                        <!-- Listo, no más comentarios-->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- El pie de página-->
+        <footer class="py-4 bg-dark">
+            <div class="container px-5"><p class="text-center text-white small">Nombre Apellido &copy; 2023</p></div>
+        </footer>
+        <!-- Lo que sigue es JavaScript a secas-->
+        <script>
+            // Lo mismo que haría con selectAll y addClass en p5j.s
+            document.querySelectorAll("a.nav-link")[0].classList.add("active");
+        </script>
+        <!-- Lo que sigue es la biblioteca de Bootstrap-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
+        <!-- Lo que sigue es la biblioteca de p5.js-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.min.js" integrity="sha512-3RlxD1bW34eFKPwj9gUXEWtdSMC59QqIqHnD8O/NoTwSJhgxRizdcFVQhUMFyTp5RwLTDL0Lbcqtl8b7bFAzog==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <!-- Lo que sigue es el sketch resuelto con p5.js-->
+        <script>
+            var x;
+
+            function setup() {
+                createCanvas(windowWidth, windowHeight).parent("sketch");
+                colorMode(HSB, 366, 100, 100);
+                textAlign(CENTER, CENTER);
+                textSize(150);
+                x = 0;
+            }
+
+            function draw() {
+                x++;
+                if (x > 360) {
+                    x = 0;
+                }
+                background(x, 100, 90);
+                text("🌎", windowWidth / 2, windowHeight / 2);
+            }
+
+            function windowResize() {
+                resizeCanvas(windowWidth, windowHeight);
+            }
+        </script>
+    </body>
+</html>

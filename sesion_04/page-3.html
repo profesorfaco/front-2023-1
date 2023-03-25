@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <!--En la siguiente línea voy por el estilo CSS que ofrece Bootstrap-->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous" />
+        <!--Estilo al que puedo agregar más reglas-->
+        <style>
+            nav {
+                backdrop-filter: blur(0.5rem);
+            }
+        </style>
+        <title>ESTO ES BOOTSTRAP</title>
+    </head>
+    <body>
+        <!--El menú fijo al tope-->
+        <nav class="navbar fixed-top navbar-expand-lg">
+            <div class="container px-5">
+                <a class="navbar-brand" href="index.html">Nombre Apellido</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu" aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarMenu">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item"><a class="nav-link" href="index.html">Portada</a></li>
+                        <li class="nav-item"><a class="nav-link" href="page-1.html">Primera</a></li>
+                        <li class="nav-item"><a class="nav-link" href="page-2.html">Segunda</a></li>
+                        <li class="nav-item"><a class="nav-link" href="page-3.html">Tercera</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!--La sección para el canvas creado con p5.js-->
+        <section class="vh-100 overflow-hidden" id="sketch"></section>
+        <!-- Lo que sigue es JavaScript a secas-->
+        <script>
+            // Lo mismo que haría con selectAll y addClass en p5j.s
+            document.querySelectorAll("a.nav-link")[3].classList.add("active");
+        </script>
+        <!-- Lo que sigue es la biblioteca de Bootstrap-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
+        <!-- Lo que sigue es la biblioteca de p5.js-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.min.js" integrity="sha512-3RlxD1bW34eFKPwj9gUXEWtdSMC59QqIqHnD8O/NoTwSJhgxRizdcFVQhUMFyTp5RwLTDL0Lbcqtl8b7bFAzog==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <!-- Lo que sigue es el sketch resuelto con p5.js-->
+        <script>
+            var x;
+
+            function setup() {
+                createCanvas(windowWidth, windowHeight).parent("sketch");
+                colorMode(HSB, 366, 100, 100);
+                textAlign(CENTER, CENTER);
+                textSize(150);
+                x = 0;
+            }
+
+            function draw() {
+                x++;
+                if (x > 360) {
+                    x = 0;
+                }
+                background(x, 100, 90);
+                text("🌎", windowWidth / 2, windowHeight / 2);
+            }
+
+            function windowResize() {
+                resizeCanvas(windowWidth, windowHeight);
+            }
+        </script>
+    </body>
+</html>
