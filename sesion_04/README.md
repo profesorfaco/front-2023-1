@@ -28,7 +28,7 @@ Por la modalidad a aula invertida, antes la cuarta sesión corresponde revisar a
 
 Nos quedaremos con el primero de los mencionados, en su versión más reciente, la 5.3. 
 
-[Bootstrap](https://getbootstrap.com/) nos permite implementar tanto prototipos rápidos como productos acabados, esto mediante el uso de elementos HTML relacionados con [reglas de CSS predefinidas que pueden ojear acá](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.css).
+[Bootstrap](https://getbootstrap.com/) nos permite implementar tanto prototipos rápidos como productos acabados, esto mediante el uso de elementos HTML relacionados con [reglas de CSS predefinidas, que pueden ojear acá](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.css).
 
 Hay distintas maneras de comenzar a trabajar con Boostrap. Nosotros vamos a partir con [la rápida](https://getbootstrap.com/docs/5.3/getting-started/introduction/#quick-start): 
 
