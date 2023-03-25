@@ -6,11 +6,14 @@
 
 - - - - - - - - 
 
-Por la modalidad a aula invertida, antes la cuarta sesión corresponde revisar algo de contenido en EL SIGUIENTE ORDEN:
+Recordemos una idea importante: En el [README.md que se encuentra al acceder a este repositorio](https://github.com/profesorfaco/front-2023-1#readme), pudieron leer que para este electivo **corresponde considerar la modalidad de "aula invertida" (*flipped classroom* en inglés)**, modalidad que saca la exposición de contenidos de las horas directas y la confía al tiempo de aprendizaje autónomo de cada estudiante. 
 
-- SEGUNDO: Leer lo que sigue (bajo el título de [Teoría](#teor%C3%ADa))
+Ante de la clase del 6 de abril, es necesario que revisen los siguientes contenidos:
 
-- PRIMERO: Ver el video [Aprende Bootstrap en 10 minutos](https://youtu.be/XXllX0A_9KQ)
+
+- PRIMERO: Leer lo que sigue (bajo el título de [Teoría](#teor%C3%ADa))
+
+- SEGUNDO: Ver el video [Aprende Bootstrap en 10 minutos](https://youtu.be/XXllX0A_9KQ)
 
 - TERCERO: Consultar la página [Bootstrap grid examples](https://getbootstrap.com/docs/5.3/examples/grid/) (en inglés)
 
