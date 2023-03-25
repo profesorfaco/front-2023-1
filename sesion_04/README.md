@@ -18,7 +18,7 @@ Por la modalidad a aula invertida, antes la cuarta sesión corresponde revisar a
 
 #### Teoría
 
-**Existen marcos de trabajo (*frameworks*) de código abierto que nos permitirán avanzar más rápido desde relaciones predefinidas de HTML y CSS, con un poco de JS**. Por su popularidad, corresponde mencionar a:
+**Existen marcos de trabajo (*frameworks*) para el desarrollo de *front-end* responsivo que nos permitirán avanzar más rápido desde relaciones predefinidas de HTML y CSS, con un poco de JS**. Por su popularidad, corresponde mencionar a:
 
 - [Bootstrap](https://getbootstrap.com/): *The world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.*
 
