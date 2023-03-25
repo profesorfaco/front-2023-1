@@ -1,0 +1,12 @@
+nav {
+    backdrop-filter: blur(0.5rem);
+}
+.active:before {
+    content: "→ ";
+}
+
+@media (min-width: 992px) {
+    .active:before {
+        content: "↓ ";
+    }
+}

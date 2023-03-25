@@ -6,11 +6,7 @@
         <!--En la siguiente línea voy por el estilo CSS que ofrece Bootstrap-->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous" />
         <!--Estilo al que puedo agregar más reglas-->
-        <style>
-            nav {
-                backdrop-filter: blur(0.5rem);
-            }
-        </style>
+        <link href="style.css" rel="stylesheet" />
         <title>ESTO ES BOOTSTRAP</title>
     </head>
     <body>
@@ -32,9 +28,13 @@
             </div>
         </nav>
         <!--La sección para el canvas creado con p5.js-->
-        <section class="vh-100 overflow-hidden" id="sketch"></section>
+        <section class="vh-100 overflow-hidden" id="sketch">
+              <div class="position-absolute top-50 start-50 translate-middle w-50">
+                  <p class="fs-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id ipsum at est venenatis vulputate et eu nibh. Curabitur quis orci in tellus tempus semper <a href="#laIdentidadEsUnica" class="link-dark">call to action</a></p>
+              </div>
+        </section>
         <!--La sección con 3 descripciones-->
-        <section class="py-5 border-bottom">
+        <section class="py-5 border-top border-bottom" id="laIdentidadEsUnica">
             <div class="container px-5 my-5">
                 <div class="row gx-5">
                     <div class="col-lg-4 mb-5 mb-lg-0">
@@ -71,21 +71,21 @@
                 <div class="row">
                     <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 mx-auto">
                         <!-- Primer comentario-->
-                        <div class="card mb-4">
+                        <div class="card mb-4 shadow-sm">
                             <div class="card-body p-4">
                                 <p class="mb-1">🤔 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id ipsum at est venenatis vulputate et eu nibh. Curabitur quis orci in tellus tempus semper.</p>
                                 <div class="small text-muted text-end">— Nombre de quien lo dice</div>
                             </div>
                         </div>
                         <!-- Segundo comentario-->
-                        <div class="card mb-4">
+                        <div class="card mb-4 shadow-sm">
                             <div class="card-body p-4">
                                 <p class="mb-1">🧐 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id ipsum at est venenatis vulputate et eu nibh. Curabitur quis orci in tellus tempus semper.</p>
                                 <div class="small text-muted text-end">— Nombre de quien lo dice</div>
                             </div>
                         </div>
                         <!-- Tercer comentario-->
-                        <div class="card mb-4">
+                        <div class="card mb-4 shadow-sm">
                             <div class="card-body p-4">
                                 <p class="mb-1">😨 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In id ipsum at est venenatis vulputate et eu nibh. Curabitur quis orci in tellus tempus semper.</p>
                                 <div class="small text-muted text-end">— Nombre de quien lo dice</div>
@@ -114,10 +114,8 @@
             var x;
 
             function setup() {
-                createCanvas(windowWidth, windowHeight).parent("sketch");
-                colorMode(HSB, 366, 100, 100);
-                textAlign(CENTER, CENTER);
-                textSize(150);
+                createCanvas(windowWidth, windowHeight).parent("sketch").style('z-index',-1);
+                colorMode(HSB, 360, 100, 100);
                 x = 0;
             }
 
@@ -126,8 +124,7 @@
                 if (x > 360) {
                     x = 0;
                 }
-                background(x, 100, 90);
-                text("🌎", windowWidth / 2, windowHeight / 2);
+                background(x, 80, 90);
             }
 
             function windowResize() {
