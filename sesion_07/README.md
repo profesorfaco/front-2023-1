@@ -4,57 +4,22 @@
 
 ### Jueves 27 de abril → sesion_07 → Evaluación de cierre Nº2
 
-- - - - - - - 
+- - - - - - - - 
 
-Con el mínimo de 5 gráficos entregados al finalizar [la clase recién pasada](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_08#readme) se definió el 20% de la primera evaluación del electivo. El 20% corresponde a 5 puntos ya registrados en una [Hoja de Cálculo de Google](https://docs.google.com/spreadsheets/d/1aPuMv2i4kl_dD6iiSifJS4ONtCzvjmsoMEenfJgQjvc/edit?usp=sharing).
+Para la evaluación corresponde **editar [los archivos en esta carpeta (sesion_07)](https://profesorfaco.github.io/front-2023-1/sesion_07/)**, atendiendo a lo que se incluye en la siguiente PAUTA:
 
-El sitio que cada estudiante entregue al finalizar la sesión de hoy debería ser mejor que una referencia apurada: https://profesorfaco.github.io/front-2023-1/sesion_08/
+| Nro. | Ítem | Puntaje |
+|:----:|:------------|:-------:|
+| 1 | `style.css` - Pendiente hasta el 27/04/2023 | 1.0 |
+| 2 | `index.html` - Pendiente hasta el 27/04/2023 | 1.0 |
+| 3 | `page-1.html` - Pendiente hasta el 27/04/2023 | 1.0 |
+| 4 | `page-2.html` - Pendiente hasta el 27/04/2023 | 1.0 |
+| 5 | `page-3.html` - Pendiente hasta el 27/04/2023 | 1.0 |
+| 6 | `page-4.html` - Pendiente hasta el 27/04/2023 | 1.0 |
+| 7 | Punto base | 1.0  |
+| —  | **TOTAL** | **7.0** |
 
-Para que resulte mejor, deben considerarse 3 dimensiones:
-
-1. HTML: contenidos, semántica y jerarquías de etiquetados (hasta 5 puntos)
-2. CSS: Bootstrap complementado con definiciones personales (hasta 5 puntos)
-3. JavaScript: Cálculo de datos y visualizaciones de los mismos, sin errores en la consola (hasta 5 puntos)
-
-La evaluación de la primera dimensión, de HTML, se basará en la manera en que utilicen los [elementos que corresponden](http://html5doctor.com/element-index/) para contener una información [redactada para web](https://www.seattleu.edu/web/content/writing/), que esté [respaldada por fuentes confiables](http://credibility.stanford.edu/guidelines/index.html). 
-
-La evaluación de la segunda dimensión, de CSS, se basará en la adecuación del estilo a la mejor expresión de conceptos con los que el tema presentado se deba relacionar. Esta adecuación debe ser evidente en [fuentes tipográficas](https://fonts.google.com/knowledge/choosing_type/a_checklist_for_choosing_type) y [constrastes de colores](https://www.archipalettes.com/blog/los-7-contrastes-de-colores) que sean [legibles](https://webaim.org/resources/contrastchecker/).
-
-La evaluación de la tercera dimensión, de JavaScript, no exigirá originalidad sino claridad: Usted puede copiar soluciones ajenas, a condición de haber leído y comprendido íntegramente aquello que copia (porque de otro modo no se aprede a programar ni se protege de códigos maliciosos).
-
-
-- - - - - - -
-
-#### Algunas ayudas
-
-Páginas generadas desde avances y consultas hechas durante la semana entre sesiones 8 y 9:
-
-- https://profesorfaco.github.io/front-2023-1/sesion_09/pagina-bonita.html
-
-- https://profesorfaco.github.io/front-2023-1/sesion_09/no-es-molestia.html
-
-- https://profesorfaco.github.io/front-2023-1/sesion_09/linea-de-tiempo.html
-
-- https://profesorfaco.github.io/front-2023-1/sesion_09/index-con-video.html
-
-- https://profesorfaco.github.io/front-2023-1/sesion_09/index-con-otro-video.html
-
-- - - - - - - 
-
-#### Friendly reminder
-
-Habrá 3 evaluaciones en el semestre. Una diagnóstica y las siguientes son sumativas. La evaluación que se resuelve en esta sesión es la primera evaluación sumativa.
-
-**La nota final del electivo se obtiene del promedio de las dos evaluaciones sumativas**; aunque existe la posibilidad de reemplazo de una de ellas por la [evaluación diagnóstica](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_03#resultados), a condición de obtener nota aprobatoria (superior a 4.0) en las tres instancias. Si no se cumple con la condición: No hay cambios en las calificaciones a promediar.
-
-La próxima calificación comienza a jugarse a partir de [la próxima sesión](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_10), de vuelta de la semana de receso; en lo que queda de electivo cada estudiante desarrollará su propio sitio web o prototipo avanzado de aplicación web, el que podría alojar en un dominio personalizado (*podría* no es lo mismo que *debería*):
-
-- [Configurar GitHub Pages para usar dominios.cl](https://ggerena.medium.com/configurar-github-pages-para-usar-dominios-cl-13c1a644699f)
-
-- [Hosteando tu sitio en Github Pages](https://www.youtube.com/watch?v=wyRfN5oLzx4&t=155s)
-
-- [Hosting gratuito con GitHub Pages y dominio personalizado](https://www.youtube.com/watch?v=nbUR1jzVI5g&t=328s)
-
+Una vez editados, deben colocarlos en [un nuevo repositorio de GitHub](https://docs.github.com/es/get-started/quickstart/create-a-repo) y asegurarse de activar [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site), y que funcione correctamente (dejen pasar unos minutos y [refresquen el navegador](https://www.elespanol.com/omicrono/software/20180428/metodo-recargar-webs-no-conoces-solucionara-problemas/303220419_0.html)).
 
 - - - - - - - 
 
