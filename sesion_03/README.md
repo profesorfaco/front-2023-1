@@ -10,12 +10,12 @@ Para la evaluación corresponde **editar [los archivos en esta carpeta (sesion_0
 
 | Nro. | Ítem | Puntaje |
 |:----:|:------------|:-------:|
-| 1 | `style.css` - Pendiente hasta el 30/03/2023 | 1.0 |
-| 2 | `index.html` - Pendiente hasta el 30/03/2023 | 1.0 |
-| 3 | `page-1.html` - Pendiente hasta el 30/03/2023 | 1.0 |
-| 4 | `page-2.html` - Pendiente hasta el 30/03/2023 | 1.0 |
-| 5 | `page-3.html` - Pendiente hasta el 30/03/2023 | 1.0 |
-| 6 | `page-4.html` - Pendiente hasta el 30/03/2023 | 1.0 |
+| 1 | **style.css →** incluya una tipografía de Google Fonts y complete las reglas que faltan para que los vínculos en la barra de navegación tengan el `padding` correspondiente. | 1.0 |
+| 2 | **index.html →** complete el párrafo mediante la modificación (bien informada) de lo que corresponda en el `<script></script>`, y también cambie Nombre Apellido por el suyo (y repita el cambio en cada página del sitio). | 1.0 |
+| 3 | **page-1.html →** programe una interacción que permita a la persona usuaria modificar, mediante sliders, *Hue*, *Saturation* y *Brightness* del `background()`. | 1.0 |
+| 4 | **page-2.html →** programe una interacción que permita a la persona usuaria modificar, mediante sliders, *Red*, *Green* y *Blue* del `background()`.  | 1.0 |
+| 5 | **page-3.html →** Tome el ejemplo de Materiales – https://p5js.org/es/examples/3d-materials.html –, ajústelo a pantalla completa, descarte los toros y sólo deje el cubo centrado; luego agrande tal cubo y aplique en él, como textura, al ["gato ponido"](https://raw.githubusercontent.com/profesorfaco/front-2023-1/main/sesion_03/cat.jpg) (en caso de ser *cat-hater* y *dog-lover*, puedes usar la imagen de algún perro que ya esté en línea). | 1.0 |
+| 6 | **page-4.html →** Parta con el ejemplo de Rebote – https://p5js.org/es/examples/motion-bounce.html –, ajústelo a pantalla completa, y con esa base replique lo que aparece en la tele en esta escena de The Office: https://youtu.be/QOtuX0jL85Y | 1.0 |
 | 7 | Punto base | 1.0  |
 | —  | **TOTAL** | **7.0** |
 
