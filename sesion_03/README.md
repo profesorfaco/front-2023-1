@@ -19,7 +19,7 @@ Para la evaluación corresponde **editar [los archivos en esta carpeta (sesion_0
 | 7 | Punto base | 1.0  |
 | —  | **TOTAL** | **7.0** |
 
-Una vez editados, deben colocarlos en [un nuevo repositorio de GitHub](https://docs.github.com/es/get-started/quickstart/create-a-repo) y asegurarse de activar [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site), y que funcione correctamente (dejen pasar unos minutos y [refresquen el navegador](https://www.elespanol.com/omicrono/software/20180428/metodo-recargar-webs-no-conoces-solucionara-problemas/303220419_0.html)).
+Una vez editados, deben colocarlos en [un nuevo repositorio de GitHub](https://docs.github.com/es/get-started/quickstart/create-a-repo) y asegurarse de activar [GitHub Pages](https://docs.github.com/en/pages/quickstart), y que funcione correctamente (dejen pasar unos minutos y [refresquen el navegador](https://www.elespanol.com/omicrono/software/20180428/metodo-recargar-webs-no-conoces-solucionara-problemas/303220419_0.html)).
 								
 								
 - - - - - - -
