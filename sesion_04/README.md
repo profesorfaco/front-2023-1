@@ -78,7 +78,9 @@ Para ventanas más angostas que la mediana, se asumirá que cada división toma 
 
 Si quisieramos que se muestre dividido aún en las pantallas más chicas, habrá que volver al prefijo `col` - sin interfijo - sufijo `6`, tal como en el ejemplo de más arriba. O sea, se usa ningún interfijo cuando queremos definir un número de columnas a tomar en casos de pantallas muy pequeñas (<576px). 
 
-Los tamaños en pixeles de cada pantalla los pueden revisar en los [*Breakpoints* de Bootstrap](https://getbootstrap.com/docs/5.3/layout/breakpoints/#available-breakpoints). Y en el mismo lugar (en los [Docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/) de Bootstrap) encontrarán todas las referencias que necesiten para poder utilizar este *framework* que nos permitirá construir, rápidamente, sitios responsivos.
+Los tamaños en pixeles de cada pantalla los pueden revisar en los [*Breakpoints* de Bootstrap](https://getbootstrap.com/docs/5.3/layout/breakpoints/#available-breakpoints). 
+
+Y en el mismo lugar (en los [Docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/) de Bootstrap) encontrarán todas las referencias que necesiten para poder utilizar este *framework* que nos permitirá construir, rápidamente, sitios responsivos.
 
 - - - - - - 
 
