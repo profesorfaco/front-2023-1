@@ -80,7 +80,7 @@ Si quisieramos que se muestre dividido aún en las pantallas más angostas, habr
 
 Pueden revisar en los [*Breakpoints* de Bootstrap](https://getbootstrap.com/docs/5.3/layout/breakpoints/#available-breakpoints) los tamaños en pixeles correspondientes a ancho muy pequeño (), pequeño (`-sm-`), mediano (`-md-`), grande (`-lg-`), extra grande (`-xl-`) o extra-extra grande (`-xxl-`). Y pueden revisar los anchos de pantalla de diversos dispositivos en https://screensiz.es/
 
-Y en el mismo lugar (en los [Docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/) de Bootstrap) encontrarán todas las referencias que necesiten para poder utilizar este *framework* que nos permitirá construir, rápidamente, sitios responsivos.
+Al existir tal diversidad de anchos posibles, se hace necesario hacer desarrollo de *front-end* [responsivo, adaptativo o adaptable](https://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable).
 
 - - - - - - 
 
