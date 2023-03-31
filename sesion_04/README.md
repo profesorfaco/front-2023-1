@@ -67,7 +67,7 @@ En el `ejemplo.html` pueden cambiar el comentario `<!--reemplaza esto-->` por lo
 
 Si guardan y ven el resultado en un navegador web, podrán notar que en toda condición de pantalla tienen el párrafo de `¿Usemos Boostrap?` al lado del párrafo donde se lee `Bueno, ya`. Esto es así porque tomamos 6 de 12 columnas (`class="col-6"`). Esto es tomar la mitad de espacio disponible a lo ancho en tal fila (`class="row"`), que está dentro del contenedor (`class="container"`).
 
-Pero, mediante interfijos, podemos indicar excepciones que respondan al tamaño de ventana de navegador en que se despliegue la página, sea esta muy pequeña (), pequeña (`-sm-`), mediana (`-md-`), grande (`-lg-`), extra grande (`-xl-`) o extra-extra grande (`-xxl-`). Por ejemplo, podemos modificar las dos clases para tomar 6 y 6 columnas desde la ventana mediana con el prefijo `col` - el interfijo `md` - el sufijo `6`:  
+Pero, mediante interfijos, podemos indicar excepciones que respondan al tamaño de ventana de navegador en que se despliegue la página, sea que esta ventana tenga un ancho muy pequeño (), pequeño (`-sm-`), mediano (`-md-`), grande (`-lg-`), extra grande (`-xl-`) o extra-extra grande (`-xxl-`). Por ejemplo, podemos modificar las dos clases para tomar 6 y 6 columnas desde la ventana de ancho medio con el prefijo `col` - el interfijo `md` - el sufijo `6`:  
 
 ```
 <div class="col-md-6 bg-primary-subtle"><p>¿Usemos Bootstrap?</p></div>
@@ -76,9 +76,9 @@ Pero, mediante interfijos, podemos indicar excepciones que respondan al tamaño 
 
 Para ventanas más angostas que la mediana, se asumirá que cada división toma 12 columnas (todo el ancho disponible). Por eso quedará la pregunta arriba y la respuesta abajo cuando el ancho de la ventana del navegador sea chica o muy chica.
 
-Si quisieramos que se muestre dividido aún en las pantallas más chicas, habrá que volver al prefijo `col` - sin interfijo - sufijo `6`, tal como en el ejemplo de más arriba. O sea, se usa ningún interfijo cuando queremos definir un número de columnas a tomar en casos de pantallas muy pequeñas (<576px). 
+Si quisieramos que se muestre dividido aún en las pantallas más angostas, habrá que volver al prefijo `col` - sin interfijo - sufijo `6`, tal como en el ejemplo de más arriba. O sea, no se usa interfijo cuando queremos definir un número de columnas a tomar en casos de pantallas de ancho muy pequeño (<576px). 
 
-Los tamaños en pixeles de cada pantalla los pueden revisar en los [*Breakpoints* de Bootstrap](https://getbootstrap.com/docs/5.3/layout/breakpoints/#available-breakpoints). 
+Pueden revisar en los [*Breakpoints* de Bootstrap](https://getbootstrap.com/docs/5.3/layout/breakpoints/#available-breakpoints) los tamaños en pixeles correspondientes a ancho muy pequeño (), pequeño (`-sm-`), mediano (`-md-`), grande (`-lg-`), extra grande (`-xl-`) o extra-extra grande (`-xxl-`).
 
 Y en el mismo lugar (en los [Docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/) de Bootstrap) encontrarán todas las referencias que necesiten para poder utilizar este *framework* que nos permitirá construir, rápidamente, sitios responsivos.
 
