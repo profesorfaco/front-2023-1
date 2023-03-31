@@ -54,7 +54,7 @@ En un documeto vacío podemos pegar el código de arriba, y luego guardar el doc
 
 En el cuerpo del documento recién guardado (dentro de `<body></body>`) podemos comenzar a utilizar las clases con las que Bootstrap define el *layout*, siguiendo un principio general de tomar entre 1 y 12 columnas (`class="col"`) dentro de cada fila (`class="row"`) que, a su vez, está dentro de un contenedor (`class="container"`). 
 
-En el `ejemplo.html` pueden reemplazar el comentario `<!--reemplaza esto-->` por lo siguiente:
+En el `ejemplo.html` pueden cambiar el comentario `<!--reemplaza esto-->` por lo siguiente:
 
 ```
 <div class="container">
