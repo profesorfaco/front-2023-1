@@ -48,7 +48,7 @@ Las 15 sesiones del electivo de **Introducción al Desarrollo Front End con HTML
 
 - Jueves 23 de marzo → [sesion_02](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_02) → HTML, CSS y p5.js (una biblioteca de JavaScript) ✓
 
-- **Jueves 30 de marzo → [sesion_03](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_03) → Evaluación de cierre Nº1**
+- **Jueves 30 de marzo → [sesion_03](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_03) → Evaluación de cierre Nº1 ✓**
 
 **Unidad II: Tecnologías fundamentales para la construcción de páginas Web**
 
