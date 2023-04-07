@@ -6,6 +6,12 @@
 
 - - - - - - - - 
 
+Recordemos una idea importante: En el [README.md que se encuentra al acceder a este repositorio](https://github.com/profesorfaco/front-2023-1#readme), pudieron leer que para este electivo **corresponde considerar la modalidad de "aula invertida" (*flipped classroom* en inglés)**, modalidad que saca la exposición de contenidos de las horas directas y la confía al tiempo de aprendizaje autónomo de cada estudiante. 
+
+Ante de la clase del 13 de abril, es necesario que lean lo que sigue (bajo el título de [Teoría](#teor%C3%ADa)), es recomendable que visiten los vínculos allí incluidos y hagan el ejercicio de `ejemplo.html`.
+
+- - - - - - - - 
+
 #### Teoría
 
 Bootstrap ofrecer [un estilo CSS que tiene tantas definiciones que llega a las 12.078 líneas](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.css). Con definiciones nos referimos a reglas de CSS, con su selector y respectivas declaraciones entre paréntesis de llave, declaraciones que se separan entre sí mediante punto y coma:
