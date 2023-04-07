@@ -8,7 +8,9 @@
 
 #### Teoría
 
-Además de ofrecer un estilo de CSS compilado (basado en [Sass](https://sass-lang.com/)), Bootstrap tiene una biblioteca de JavaScript que permite el funcionamiento de varios de sus componentes. Funcionamiento que requieren también de [Popper](https://popper.js.org/):
+Además de ofrecer [un estilo CSS que, por defecto, tiene 12.078 líneas](https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.css), Bootstrap ofrece una biblioteca de JavaScript que asegura la implementación de interacciones que habitualmente encontramos en sitios y aplicaciones web de [diseño responsivo, adaptativo o adaptable](https://es.wikipedia.org/wiki/Dise%C3%B1o_web_adaptable).
+
+permite el funcionamiento de varios de sus componentes que son de uso común en la web actual. Funcionamiento que requieren también de [Popper](https://popper.js.org/):
 
 - [Accordion](https://getbootstrap.com/docs/5.1/components/accordion/)
 - [Carousel](https://getbootstrap.com/docs/5.1/components/carousel/)
