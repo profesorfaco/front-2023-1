@@ -152,6 +152,12 @@ Corresponde repetir la operación de copiar el código fuente completo, para peg
 
 Nuevamente, si necesitan ordenar el código, aprovechen https://webformatter.com/html - Y para visualizar prefieran prefieran Chrome o Firefox, eviten Edge y nunca usen Safari (tampoco se confíen de la visualización que ofrece https://phcode.dev/) 
 
+Y si queremos limitar la lectura a lo estrictamente necesario, y con ello mejorar el rendimiento de lo preparado con Bootstrap, conviene aplicar algunos trucos: https://css-tricks.com/how-do-you-remove-unused-css-from-a-site/ 
+
+Acá dejo el "meme" que les debía: 
+
+![20230221_105534](https://user-images.githubusercontent.com/7999767/230698167-31232077-5f0f-4899-af30-764134a31632.jpg)
+
 - - - - - - - 
 
 ###### [← SESIÓN ANTERIOR](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_04) — [SIGUIENTE SESIÓN →](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_06)
