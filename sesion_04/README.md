@@ -90,7 +90,11 @@ Al existir tal diversidad de anchos posibles, se hace necesario hacer desarrollo
 
 Para avanzar, corresponde considerar que en el sitio web oficial de Bootstrap se ofrece una [documentación detallada](https://getbootstrap.com/docs/5.3/getting-started/introduction/) sobre cada clase, utilidad y componente ofrecido por este marco de trabajo (**framework**). 
 
-**Es tanto lo que Boostrap nos ofrece que, para algunos proyectos, termina siendo muy pesado. Consideren, por ejemplo, que su estilo CSS tiene 12.078 líneas cuando no está minimizado**. Todas esas líneas tienen que ser leídas por el navegador antes de mostrar la página. Pero rara vez usamos tanto (le pedimos al navegador leer más de diez mil líneas en cada carga de página creada con Boostrap, cuando usamos apenas una centena de ellas). Si queremos limitar la lectura a lo estrictamente necesario, y con ello mejorar el rendimiento de lo preparado con Bootstrap, conviene aplicar algunos trucos: https://css-tricks.com/how-do-you-remove-unused-css-from-a-site/ 
+**Es tanto lo que Boostrap nos ofrece que, para algunos proyectos, termina siendo muy pesado. 
+
+![20230221_105534](https://user-images.githubusercontent.com/7999767/230698167-31232077-5f0f-4899-af30-764134a31632.jpg)
+
+Consideren, por ejemplo, que su estilo CSS tiene 12.078 líneas cuando no está minimizado**. Todas esas líneas tienen que ser leídas por el navegador antes de mostrar la página. Pero rara vez usamos tanto (le pedimos al navegador leer más de diez mil líneas en cada carga de página creada con Boostrap, cuando usamos apenas una centena de ellas). Si queremos limitar la lectura a lo estrictamente necesario, y con ello mejorar el rendimiento de lo preparado con Bootstrap, conviene aplicar algunos trucos: https://css-tricks.com/how-do-you-remove-unused-css-from-a-site/ 
 
 Entre los trucos del artículo recién referido, se menciona https://purifycss.online/ - Cuando tengamos nuestro trabajo en línea, con GitHub Pages, contaremos con una Website URL para darle un "Clean up CSS". Luego haremos unos cambios en los documentos en el repositorio, para aprovechar el "download combined, purified & minified CSS".
 
