@@ -93,7 +93,7 @@ Vamos por la variable `g`. Si necesitamos escribir la frase `El chupete de Maggi
 
 ¿Qué utilidad tienen variables como la `f`, `g` y `h`?
 
-Un ejemplo de utilidad su utilidad se hace evidente en el siguiente código, que pueden copiar y pegar en un documento nuevo. Documento que podrían guardar como `ejemplo-1.html antes de visualizarlo en un navegador web.
+Un ejemplo de su utilidad aparece en el siguiente código, que pueden copiar y pegar en un documento nuevo. Documento que podrían guardar como `ejemplo-1.html` antes de visualizarlo en un navegador web.
 
 ```
 <!DOCTYPE html>
@@ -119,7 +119,7 @@ Un ejemplo de utilidad su utilidad se hace evidente en el siguiente código, que
                 { img: "https://picsum.photos/id/40/500/300", text: "Quinto lorem ipsum dolor sit amet, consectetur adipiscing elit." },
                 { img: "https://picsum.photos/id/50/500/300", text: "Sexto lorem ipsum dolor sit amet, consectetur adipiscing elit." },
             ];
-            var donde = document.querySelector("#aca");
+            const donde = document.querySelector("#aca");
             data.forEach((x) => {
                 donde.innerHTML += '<div class="col"><div class="card shadow-sm"><img class="card-img-top" src="' + x.img + '"><div class="card-body"><p class="card-text">' + x.text + "</p></div></div></div>";
             });
@@ -128,9 +128,9 @@ Un ejemplo de utilidad su utilidad se hace evidente en el siguiente código, que
 </html>
 ```
 
-Lo que tenemos en el `ejemplo-1.html` es una variable de nombre `data` (declarada como `const`, por lo constante) que contiene un arreglo que, a su vez, contiene 6 objetos.
+Lo que tenemos en el `ejemplo-1.html` es una variable de nombre `data` declarada como `const`, porque contiene algo que no variará, que permanecerá constante. Esta variable/constante contiene un arreglo que, a su vez, contiene 6 objetos.
 
-Seguida de una variable de nombre `data` es una de nombre `donde`, a la que se le asigna como valor un elemento del documento mediante [`querySelector()`](https://developer.mozilla.org/es/docs/Web/API/Document/querySelector).
+En la línea que sigue a `data` encontramos un `donde`, que es una variable/constante a la que se le asigna como valor un elemento del documento mediante [`querySelector()`](https://developer.mozilla.org/es/docs/Web/API/Document/querySelector).
 
 Más abajo, tal variable de nombre `data`es explorada por un [`forEach()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach#descripci%C3%B3n). Y por cada elemento presente en el arreglo se incluye, mediante un [`innerHTML`](https://developer.mozilla.org/es/docs/Web/API/Element/innerHTML) seguido del signo `+=`, cierta sintexis HTML al DOM. 
 
