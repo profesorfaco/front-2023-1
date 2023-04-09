@@ -173,7 +173,7 @@ Y lo que sigue es un código que pueden copiar y pegar en un documento nuevo. Do
 </html>
 ```
 
-Noten que en este ejemplo se usa un `donde.innerHTML +=` y un `dondemas.innerHTML =`. Además de tener distintas variables  a la que se le asigna como valor un elemento distinto del documento mediante `querySelector()`, tenemos distintos signos siguiendo al `innerHTML`, un `+=` y un `=`. El primero signo agrega, el segundo reemplaza.
+Noten que en este ejemplo se usa un `donde.innerHTML +=` y un `dondemas.innerHTML =`. Son distintas variables a las que se les asigna como valor un elemento distinto del documento mediante `querySelector()`, y son distintos signos siguiendo al `innerHTML`: Un `+=` y un `=`. El primer signo agrega mientras el segundo reemplaza cierta sintexis HTML al [Modelo de Objeto de Documento (DOM)](https://developer.mozilla.org/es/docs/Glossary/DOM).
 
 - - - - - - - - - - 
 
