@@ -130,11 +130,9 @@ Un ejemplo de su utilidad aparece en el siguiente código, que pueden copiar y p
 
 Lo que tenemos en el `ejemplo-1.html` es una variable de nombre `data` declarada como `const`, porque contiene algo que no variará, que permanecerá constante. Esta variable/constante contiene un arreglo que, a su vez, contiene 6 objetos.
 
-En la línea que sigue a `data` encontramos un `donde`, que es una variable/constante a la que se le asigna como valor un elemento del documento mediante [`querySelector()`](https://developer.mozilla.org/es/docs/Web/API/Document/querySelector).
+En la línea que sigue a la `data` encontramos un `donde`, que es una variable/constante a la que se le asigna como valor un elemento del documento mediante [`querySelector()`](https://developer.mozilla.org/es/docs/Web/API/Document/querySelector).
 
-Más abajo, tal variable de nombre `data`es explorada por un [`forEach()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach#descripci%C3%B3n). Y por cada elemento presente en el arreglo se incluye, mediante un [`innerHTML`](https://developer.mozilla.org/es/docs/Web/API/Element/innerHTML) seguido del signo `+=`, cierta sintexis HTML al DOM. 
-
-
+Más abajo, tal variable de nombre `data`es explorada por un [`forEach()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach#descripci%C3%B3n). Y por cada elemento presente en el arreglo se agrega, mediante un [`innerHTML`](https://developer.mozilla.org/es/docs/Web/API/Element/innerHTML) seguido del signo `+=`, cierta sintexis HTML al DOM.
 
 - - - - - - - - - - 
 
