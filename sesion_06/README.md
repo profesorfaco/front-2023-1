@@ -132,7 +132,7 @@ Lo que tenemos en el `ejemplo-1.html` es una variable de nombre `data` declarada
 
 En la línea que sigue a la `data` encontramos un `donde`, que es una variable/constante a la que se le asigna como valor un elemento del documento mediante [`querySelector()`](https://developer.mozilla.org/es/docs/Web/API/Document/querySelector).
 
-Más abajo, tal variable de nombre `data` es explorada por un [`forEach()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach#descripci%C3%B3n). Y por cada elemento presente en el arreglo se agrega (mediante un [`innerHTML`](https://developer.mozilla.org/es/docs/Web/API/Element/innerHTML) seguido del signo `+=`) cierta sintexis HTML al `donde` en el [Modelo de Objeto de Documento (DOM)](https://developer.mozilla.org/es/docs/Glossary/DOM). No la agrega al código fuente.
+Más abajo, tal variable de nombre `data` es explorada por un [`forEach()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach#descripci%C3%B3n). Y por cada elemento presente en el arreglo se agrega (mediante un [`innerHTML`](https://developer.mozilla.org/es/docs/Web/API/Element/innerHTML) seguido del signo `+=`) cierta sintexis HTML al `donde` en el [Modelo de Objeto de Documento (DOM)](https://developer.mozilla.org/es/docs/Glossary/DOM). No se agrega al código fuente.
 
 - - - - - - - - - - 
 
