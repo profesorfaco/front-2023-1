@@ -112,17 +112,17 @@ Un ejemplo de su utilidad aparece en el siguiente código, que pueden copiar y p
         </main>
         <script>
             const data = [
-                { img: "https://picsum.photos/id/0/500/300", text: "Primer lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-                { img: "https://picsum.photos/id/10/500/300", text: "Segundo lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-                { img: "https://picsum.photos/id/20/500/300", text: "Tercer lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-                { img: "https://picsum.photos/id/30/500/300", text: "Cuarto lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-                { img: "https://picsum.photos/id/40/500/300", text: "Quinto lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-                { img: "https://picsum.photos/id/50/500/300", text: "Sexto lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+                { img: "https://picsum.photos/id/0/800/500.webp", title: "Primer lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+                { img: "https://picsum.photos/id/10/800/500.webp", title: "Segundo lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+                { img: "https://picsum.photos/id/20/800/500.webp", title: "Tercer lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+                { img: "https://picsum.photos/id/30/800/500.webp", title: "Cuarto lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+                { img: "https://picsum.photos/id/40/800/500.webp", title: "Quinto lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+                { img: "https://picsum.photos/id/50/800/500.webp", title: "Sexto lorem ipsum dolor sit amet, consectetur adipiscing elit." }
             ];
             const donde = document.querySelector("#aca");
-            data.forEach((x) => {
-                donde.innerHTML += '<div class="col"><div class="card shadow-sm"><img class="card-img-top" src="' + x.img + '"><div class="card-body"><p class="card-text">' + x.text + "</p></div></div></div>";
-            });
+            data.forEach((x,i) => {
+                donde.innerHTML += '<div class="col"><div class="card shadow-sm"><img class="card-img-top" src="' + x.img + '"><div class="card-body"><p class="card-title">' + x.title + '</p></div></div></div>';
+            }); 
         </script>
     </body>
 </html>
@@ -162,7 +162,7 @@ Y lo que sigue es un código que pueden copiar y pegar en un documento nuevo. Do
             ];
             const donde = document.querySelector("#aca");
             data.forEach((x,i) => {
-                donde.innerHTML += '<div class="col"><div class="card shadow-sm"><img class="card-img-top" src="' + x.img + '"><div class="card-body"><p class="card-title"><a href="#" onclick = "detalle('+i+')" class="link-dark">' + x.title + "</a></p></div></div></div>";
+                donde.innerHTML += '<div class="col"><div class="card shadow-sm"><img class="card-img-top" src="' + x.img + '"><div class="card-body"><p class="card-title"><a href="#" onclick = "detalle('+i+')" class="link-dark">' + x.title + '</a></p></div></div></div>';
             });
             const dondemas = document.querySelector("#alla");
             function detalle(nro) {
