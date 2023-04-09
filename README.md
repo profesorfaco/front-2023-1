@@ -52,7 +52,7 @@ Las 15 sesiones del electivo de **Introducción al Desarrollo Front End con HTML
 
 **Unidad II: Tecnologías fundamentales para la construcción de páginas Web**
 
-- Jueves 6 de abril → [sesion_04](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_04) → HTML y CSS con Bootstrap v5 (1 de 2)
+- Jueves 6 de abril → [sesion_04](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_04) → HTML y CSS con Bootstrap v5 (1 de 2) ✓
 
 - Jueves 13 de abril → [sesion_05](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_05) → HTML y CSS con Bootstrap v5 (2 de 2)
 
