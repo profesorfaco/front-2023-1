@@ -156,7 +156,8 @@ Y si queremos limitar la lectura a lo estrictamente necesario, y con ello mejora
 
 Acá dejo el "meme" que les debía: 
 
-![20230221_105534](https://user-images.githubusercontent.com/7999767/230698167-31232077-5f0f-4899-af30-764134a31632.jpg)
+![horse](https://user-images.githubusercontent.com/7999767/230779145-6fd19f8b-bbf2-4589-a4bf-8a1f52c74027.png)
+
 
 - - - - - - - 
 
