@@ -10,12 +10,12 @@ Para la evaluación corresponde **editar [los archivos en esta carpeta (sesion_0
 
 | Nro. | Ítem | Puntaje |
 |:----:|:------------|:-------:|
-| 1 | `style.css` - Pendiente hasta el 27/04/2023 | 1.0 |
-| 2 | `index.html` - Pendiente hasta el 27/04/2023 | 1.0 |
-| 3 | `page-1.html` - Pendiente hasta el 27/04/2023 | 1.0 |
-| 4 | `page-2.html` - Pendiente hasta el 27/04/2023 | 1.0 |
-| 5 | `page-3.html` - Pendiente hasta el 27/04/2023 | 1.0 |
-| 6 | `page-4.html` - Pendiente hasta el 27/04/2023 | 1.0 |
+| 1 | Pendiente hasta el 27/04/2023 | 1.0 |
+| 2 | Pendiente hasta el 27/04/2023 | 1.0 |
+| 3 | Pendiente hasta el 27/04/2023 | 1.0 |
+| 4 | Pendiente hasta el 27/04/2023| 1.0 |
+| 5 | Pendiente hasta el 27/04/2023 | 1.0 |
+| 6 | Pendiente hasta el 27/04/2023 | 1.0 |
 | 7 | Punto base | 1.0  |
 | —  | **TOTAL** | **7.0** |
 
