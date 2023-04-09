@@ -42,7 +42,7 @@ Trabajar con lo que es contenido por `:root{}` y `@media(){}` es clave para saca
 - [Offcanvas](https://getbootstrap.com/docs/5.3/components/offcanvas/)
 - [Toasts](https://getbootstrap.com/docs/5.3/components/toasts/)
 
-Para usa la biblioteca de JavaScript ofrecida por Bootstrap es necesario contar con [Popper](https://popper.js.org/). 
+Para usa la biblioteca de JavaScript ofrecida por Bootstrap 5 es necesario contar con [Popper](https://popper.js.org/). 
 
 Se puede optar por ir por los scripts de Bootstrap.js y Popper.js por separado:
 
