@@ -140,7 +140,7 @@ Entre el cierre de la división de identidad `probandoCarrusel` y el cierre de l
 
 Al copiar y pegar estas distintas partes se podría desordenar un poco su código fuente. Para volver a ordenarlo, pueden usar https://webformatter.com/html 
 
-Una vez el código esté ordenado, vean el resultado en su navegador (prefieran Chrome o Firefox, eviten Edge y nunca usen Safari).
+Una vez el código esté ordenado (sin errores), vean el resultado en su navegador (prefieran Chrome o Firefox, eviten Edge y nunca usen Safari).
 
 - - - - - - - - - -
 
