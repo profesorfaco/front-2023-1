@@ -179,6 +179,16 @@ Y lo que sigue es un código que pueden copiar y pegar en un documento nuevo. Do
 
 Noten que en este ejemplo se usa un `donde.innerHTML +=` y un `dondemas.innerHTML =`. Son distintas variables a las que se les asigna como valor un elemento distinto del documento mediante `querySelector()`, y son distintos signos siguiendo al `innerHTML`: Un `+=` y un `=`. El primer signo agrega mientras el segundo reemplaza cierta sintexis HTML al [Modelo de Objeto de Documento (DOM)](https://developer.mozilla.org/es/docs/Glossary/DOM).
 
+- - - - - - - - - -
+
+#### Exploración práctica
+
+Hoy nos aprovecharemos nuevamente de un [ejemplo](https://getbootstrap.com/docs/5.3/examples/) del sitio web oficial de Bootstrap: https://getbootstrap.com/docs/5.3/examples/album/
+
+Corresponde repetir la operación de copiar el código fuente completo, para pegarlo en un documento recién creado en un editor de código fuente, para luego guardarlo como `index.html` y hacer los ajustes necesario para que se vea tal como está ofrecido en línea. 
+
+Nuevamente, si necesitan ordenar el código, aprovechen https://webformatter.com/html - Y para visualizar prefieran prefieran Chrome o Firefox, eviten Edge y nunca usen Safari (tampoco se confíen de la visualización que ofrece https://phcode.dev/) 
+
 - - - - - - - - - - 
 
 ###### [← SESIÓN ANTERIOR](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_05) — [SIGUIENTE SESIÓN →](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_07)
