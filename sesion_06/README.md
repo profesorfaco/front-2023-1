@@ -173,7 +173,7 @@ Y lo que sigue es un código que pueden copiar y pegar en un documento nuevo. Do
 </html>
 ```
 
-Noten que en este ejemplo se usa un `donde.innerHTML +=` y un `dondemas.innerHTML = `. Además de tener distintas variables, tenemos distintos signos siguiendo al `innerHTML`.
+Noten que en este ejemplo se usa un `donde.innerHTML +=` y un `dondemas.innerHTML =`. Además de tener distintas variables, tenemos distintos signos siguiendo al `innerHTML`.
 
 - - - - - - - - - - 
 
