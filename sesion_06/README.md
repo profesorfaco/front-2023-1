@@ -106,7 +106,7 @@ Un ejemplo de su utilidad aparece en el siguiente código, que pueden copiar y p
     </head>
     <body>
         <main class="p-4">
-            <div class="container">
+            <div class="container" id="alla">
                 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3" id="aca"></div>
             </div>
         </main>
