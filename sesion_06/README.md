@@ -153,20 +153,20 @@ Y lo que sigue es un código que pueden copiar y pegar en un documento nuevo. Do
         </main>
         <script>
             const data = [
-                { img: "https://picsum.photos/id/0/500/300", text: "Primer lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-                { img: "https://picsum.photos/id/10/500/300", text: "Segundo lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-                { img: "https://picsum.photos/id/20/500/300", text: "Tercer lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-                { img: "https://picsum.photos/id/30/500/300", text: "Cuarto lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-                { img: "https://picsum.photos/id/40/500/300", text: "Quinto lorem ipsum dolor sit amet, consectetur adipiscing elit." },
-                { img: "https://picsum.photos/id/50/500/300", text: "Sexto lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+                { img: "https://picsum.photos/id/0/800/500.webp", title: "Primer lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+                { img: "https://picsum.photos/id/10/800/500.webp", title: "Segundo lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+                { img: "https://picsum.photos/id/20/800/500.webp", title: "Tercer lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+                { img: "https://picsum.photos/id/30/800/500.webp", title: "Cuarto lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+                { img: "https://picsum.photos/id/40/800/500.webp", title: "Quinto lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+                { img: "https://picsum.photos/id/50/800/500.webp", title: "Sexto lorem ipsum dolor sit amet, consectetur adipiscing elit." }
             ];
             const donde = document.querySelector("#aca");
             data.forEach((x,i) => {
-                donde.innerHTML += '<div class="col"><div class="card shadow-sm"><img class="card-img-top" src="' + x.img + '"><div class="card-body"><p class="card-title"><a href="#" onclick = "detalle('+i+')" class="link-dark">' + x.text + "</a></p></div></div></div>";
+                donde.innerHTML += '<div class="col"><div class="card shadow-sm"><img class="card-img-top" src="' + x.img + '"><div class="card-body"><p class="card-title"><a href="#" onclick = "detalle('+i+')" class="link-dark">' + x.title + "</a></p></div></div></div>";
             });
             const dondemas = document.querySelector("#alla");
             function detalle(nro) {
-                dondemas.innerHTML = '<div class="row"><div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto"><button onClick="window.location.reload();" class="btn btn-outline-secondary shadow-sm mb-3">&larr; Volver</button><h1 class="text-decoration-underline">' + data[nro].text + '</h1><img class="w-100 my-3" src="' + data[nro].img + '"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nibh turpis, ullamcorper ut urna mattis, pulvinar faucibus massa. Nullam ac pellentesque mauris. Cras porttitor, diam sed malesuada malesuada, nunc turpis porttitor massa, vitae suscipit risus odio vel odio. Donec risus massa, condimentum nec enim non, laoreet feugiat nibh. Vivamus nec nisl in dolor placerat mattis. Proin rutrum non arcu non tempus. Ut at posuere orci. Nam sit amet magna laoreet, scelerisque mauris et, lacinia lectus. Sed felis turpis, facilisis ut nunc a, varius sollicitudin elit. Ut pharetra, mauris at scelerisque posuere, lacus dolor dapibus magna, eu maximus enim est eu quam. Morbi eu odio suscipit, cursus sem in, commodo est.</p></div></div>';  
+                dondemas.innerHTML = '<div class="row"><div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto"><button onClick="window.location.reload();" class="btn btn-outline-secondary shadow-sm mb-3">&larr; Volver</button><h1 class="title-decoration-underline">' + data[nro].title + '</h1><img class="w-100 my-3 rounded" src="' + data[nro].img + '"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nibh turpis, ullamcorper ut urna mattis, pulvinar faucibus massa. Nullam ac pellentesque mauris. Cras porttitor, diam sed malesuada malesuada, nunc turpis porttitor massa, vitae suscipit risus odio vel odio. Donec risus massa, condimentum nec enim non, laoreet feugiat nibh. Vivamus nec nisl in dolor placerat mattis. Proin rutrum non arcu non tempus. Ut at posuere orci. Nam sit amet magna laoreet, scelerisque mauris et, lacinia lectus. Sed felis turpis, facilisis ut nunc a, varius sollicitudin elit. Ut pharetra, mauris at scelerisque posuere, lacus dolor dapibus magna, eu maximus enim est eu quam. Morbi eu odio suscipit, cursus sem in, commodo est.</p></div></div>';  
             }  
         </script>
     </body>
