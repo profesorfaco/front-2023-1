@@ -134,6 +134,47 @@ En la línea que sigue a la `data` encontramos un `donde`, que es una variable/c
 
 Más abajo, tal variable de nombre `data` es explorada por un [`forEach()`](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach#descripci%C3%B3n). Y por cada elemento presente en el arreglo se agrega (mediante un [`innerHTML`](https://developer.mozilla.org/es/docs/Web/API/Element/innerHTML) seguido del signo `+=`) cierta sintexis HTML al `donde` en el [Modelo de Objeto de Documento (DOM)](https://developer.mozilla.org/es/docs/Glossary/DOM). No se agrega al código fuente.
 
+Y lo que sigue es un código que pueden copiar y pegar en un documento nuevo. Documento que podrían guardar como `ejemplo-2.html` antes de visualizarlo en un navegador web.
+
+```
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Primer ejemplo</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous" />
+    </head>
+    <body>
+        <main class="p-4">
+            <div class="container" id="alla">
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3" id="aca"></div>
+            </div>
+        </main>
+        <script>
+            const data = [
+                { img: "https://picsum.photos/id/0/500/300", text: "Primer lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+                { img: "https://picsum.photos/id/10/500/300", text: "Segundo lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+                { img: "https://picsum.photos/id/20/500/300", text: "Tercer lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+                { img: "https://picsum.photos/id/30/500/300", text: "Cuarto lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+                { img: "https://picsum.photos/id/40/500/300", text: "Quinto lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+                { img: "https://picsum.photos/id/50/500/300", text: "Sexto lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+            ];
+            const donde = document.querySelector("#aca");
+            data.forEach((x,i) => {
+                donde.innerHTML += '<div class="col"><div class="card shadow-sm"><img class="card-img-top" src="' + x.img + '"><div class="card-body"><p class="card-title"><a href="#" onclick = "detalle('+i+')" class="link-dark">' + x.text + "</a></p></div></div></div>";
+            });
+            const dondemas = document.querySelector("#alla");
+            function detalle(nro) {
+                dondemas.innerHTML = '<div class="row"><div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto"><button onClick="window.location.reload();" class="btn btn-outline-secondary shadow-sm mb-3">&larr; Volver</button><h1 class="text-decoration-underline">' + data[nro].text + '</h1><img class="w-100 my-3" src="' + data[nro].img + '"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nibh turpis, ullamcorper ut urna mattis, pulvinar faucibus massa. Nullam ac pellentesque mauris. Cras porttitor, diam sed malesuada malesuada, nunc turpis porttitor massa, vitae suscipit risus odio vel odio. Donec risus massa, condimentum nec enim non, laoreet feugiat nibh. Vivamus nec nisl in dolor placerat mattis. Proin rutrum non arcu non tempus. Ut at posuere orci. Nam sit amet magna laoreet, scelerisque mauris et, lacinia lectus. Sed felis turpis, facilisis ut nunc a, varius sollicitudin elit. Ut pharetra, mauris at scelerisque posuere, lacus dolor dapibus magna, eu maximus enim est eu quam. Morbi eu odio suscipit, cursus sem in, commodo est.</p></div></div>';  
+            }  
+        </script>
+    </body>
+</html>
+```
+
+Noten que en este ejemplo se usa un `donde.innerHTML +=` y un `dondemas.innerHTML = `. Además de tener distintas variables, tenemos distintos signos siguiendo al `innerHTML`.
+
 - - - - - - - - - - 
 
 ###### [← SESIÓN ANTERIOR](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_05) — [SIGUIENTE SESIÓN →](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_07)
