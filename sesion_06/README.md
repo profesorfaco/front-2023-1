@@ -183,7 +183,7 @@ Noten que en este ejemplo se usa un `donde.innerHTML +=` y un `dondemas.innerHTM
 
 #### Exploración práctica
 
-Hoy nuevamente nos aprovecharemos de https://getbootstrap.com/docs/5.3/examples/album/
+Hoy nuevamente nos aprovecharemos de una página preparada, que da continuidad a los ejemplos: https://profesorfaco.github.io/front-2023-1/sesion_06/
 
 Corresponde repetir la operación de copiar el código fuente completo, para pegarlo en un documento recién creado en un editor de código fuente, para luego guardarlo como `index.html` y hacer los ajustes necesario para que se vea tal como está ofrecido en línea. 
 
