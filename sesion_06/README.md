@@ -6,7 +6,7 @@
 
 - - - - - - - - 
 
-Ante de la clase del 20 de abril es necesario que lean lo que sigue (bajo el título de [Teoría](#teor%C3%ADa)), es recomendable que visiten los vínculos allí incluidos y hagan el ejercicio de `ejemplo-1.html` y `ejemplo-2.html`.
+Ante de la clase del 20 de abril es necesario que lean lo que sigue (bajo el título de [Teoría](#teor%C3%ADa)), es recomendable que visiten los vínculos allí incluidos y prueben el `ejemplo-1.html` y el `ejemplo-2.html`.
 
 - - - - - - - -
 
