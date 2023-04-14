@@ -12,7 +12,7 @@ Ante de la clase del 20 de abril es necesario que lean lo que sigue (bajo el tí
 
 #### Teoría
 
-Esta clase abrirá un paréntesis para revisar un aspecto pendiente en JavaScript, aspecto que debe clarificarse antes de la siguiente sesión (de evaluación Nº2)
+Esta clase abrirá un paréntesis para revisar un aspecto pendiente en JavaScript, aspecto que debe clarificarse antes de la [siguiente sesión (de evaluación Nº2)](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_07)
 
 Para comenzar, partamos con un 18261884. 
 
