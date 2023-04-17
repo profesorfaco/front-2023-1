@@ -49,7 +49,7 @@ Para reforzar la diferencia entre antecedentes y referentes, podemos compilarlos
 
 #### Exploración práctica
 
-Completaremos https://profesorfaco.github.io/front-2023-1/sesion_08/
+Completaremos https://profesorfaco.github.io/front-2023-1/sesion_09/
 
 - - - - - - - 
 
