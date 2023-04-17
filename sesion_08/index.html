@@ -69,44 +69,6 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-12 py-3">
-                            <h3 class="text-center mt-5 mb-4 fs-4">MOODBOARD</h3>
-                            <img src="img/moodboard.jpg" class="w-100 shadow-sm rounded" alt="Describa el Mood en el Board" />
-                            <h3 class="text-center mt-5 mb-4 fs-4">COLORES</h3>
-                            <!--LA PALETA CROMÁTICA-->
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 20" class="shadow-sm mb-3 rounded">
-                                <g id="colores"></g>
-                            </svg>
-                            <p class="mx-4 text-secondary">
-                                Una carta cromática presenta colores sin proporción. Una paleta cromática sí lo hace (la proporción es la diferencia entre ambas). En una paleta cromática también es importante cuidar la posición de cada
-                                color, para la interacción más efectiva con su vecino inmediato. Al momento de diseñarla se recomienda tener en mente, por un lado, la posibilidad de trabajar con
-                                <a href="https://arte.plus/aprende-la-armonia-del-color/" target="_blank">armonías de color</a> y, por otro, la de trabajar con
-                                <a href="https://www.pinturayartistas.com/los-7-contrastes-de-colores-de-johannes-itten/" target="_blank">esquemas de contraste</a>.
-                            </p>
-                            <h3 class="text-center mt-5 mb-4 fs-4">TIPOGRAFÍAS</h3>
-                            <div class="row mt-2 mb-5">
-                                <!-- PRIMERA FUENTE DEBE ESTAR DISPONIBLE EN GOOGLE FONTS-->
-                                <div class="col-md-6 mb-3">
-                                    <div class="card border-0 shadow-sm">
-                                        <img src="img/tipo-1.jpg" class="card-img-top" alt="Nombre de la tipo" />
-                                        <div class="card-body">
-                                            <h4 class="card-title fs-5">TIPO</h4>
-                                            <p class="card-text small">Descripción "funcional" y "estética" de la tipografía, con indicaciones de uso (acaso títulos, texto, notas al margen, etc.)</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- SEGUNDA FUENTE TAMBIÉN DEBE ESTAR DISPONIBLE EN GOOGLE FONTS-->
-                                <div class="col-md-6 mb-3">
-                                    <div class="card border-0 shadow-sm">
-                                        <img src="img/tipo-2.jpg" class="card-img-top" alt="Nombre de la tipo" />
-                                        <div class="card-body">
-                                            <h4 class="card-title fs-5">TIPO</h4>
-                                            <p class="card-text small">Descripción "funcional" y "estética" de la tipografía, con indicaciones de uso (acaso títulos, texto, notas al margen, etc.)</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- NO MÁS GOOGLE FONTS-->
-                                <div class="clearfix"></div>
-                            </div>
                             <h3 class="text-center mt-5 mb-4 fs-4">ANTECEDENTES</h3>
                             <div class="row row-cols-1 row-cols-sm-3 g-4 pb-5" id="antecedentes"></div>
                         </div>
@@ -127,15 +89,6 @@
             </div>
         </footer>
         <script>
-            // Reemplaza los colores dentro del paréntesis cuadrado, respetando las comillas.
-            // Si necesitas que un color ocupe más espacio en la paleta: debes repetirlo.
-            var colores = ["#F2C2D4", "#F2C2D4", "#F2C2D4", "#F2C2D4", "#F2C2D4", "#A7F2F2", "#A7F2F2", "#05AFF2", "#FEF204", "#F25D07", "#03A65A", "#000000"];
-            // No reemplaces nada de lo que sigue.
-            var n = colores.length;
-            var w = 100 / n;
-            for (var x = 0; x < n; x++) {
-                document.getElementById("colores").innerHTML += '<rect width="' + w + '" height="20" x="' + x * w + '" y="0" fill="' + colores[x] + '" stroke="' + colores[x] + '"/>';
-            }
             document.querySelectorAll("a").forEach((a) => a.classList.add("link-dark"));
             var datos = [
                 {
