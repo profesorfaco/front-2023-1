@@ -65,21 +65,7 @@ Lo más conveniente es que su decisión, aunque sea específica, reconozca un ra
 
 #### Exploración práctica
 
-En esta clase comenzaremos a desarrollar un sitio web o un prototipo avanzado de aplicación web, donde aplicarán [lo aprendido en las primeras sesiones de la asignatura](https://profesorfaco.github.io/front-2023-1/sesion_09/dispersion.html).
-
-El primer paso para este desarrollo será definir sus correspondientes usuarias y usuarios, cada uno junto a objetivos y contextos de uso específicos, mediante: 
-
-- Una página web de diseño adaptativo (*responsive*) en el que se **presenten 3 proto-personas**. 
-
-- Cada proto-persona debe presentarse mediante texto, ilustraciones y gráficos.
-
-Para los datos a presentar en cada gráfico, puede usar alguna de las secciones en el [PDF que se incluye en esta carpeta](https://github.com/profesorfaco/front-2023-1/blob/main/sesion_10/fragmento-sazerac-book.pdf). 
-
-Por ejemplo, usted puede caracterizar a una proto-persona como 8 en cálida, 4 en seria, 5 en innovadora, 1 en ordenada y 10 en popular, y con eso armar un [radar chart](https://www.chartjs.org/docs/latest/charts/radar.html). Las otras dos proto-personas podrían tener otros números para las mismas dimensiones. ¿Y de dónde saqué esas dimensiones? De la primera página del PDF, a la izquierda. 
-
-Otro ejemplo: Un [line chart](https://www.chartjs.org/docs/latest/charts/line.html) que muestre los usos de la conexión a Internet un día normal de la persona, con una línea para Google, otra para Gmail, otra Drive, otra para Instagram, otra para Instagram, etc. En determinadas horas del día (entre 0 y 23), algunas líneas pueden estar más arriba que otras ¿Y de dónde saqué esto de las horas? De la segunda página del mismo PDF, abajo.
-
-¡Otros más! Cómo divide su día laboral en un [gráfico de dona](https://www.chartjs.org/docs/latest/charts/doughnut.html) o todos los días de la semana en un [gráfico de barras apiladas](https://www.chartjs.org/docs/latest/samples/bar/stacked.html)
+https://profesorfaco.github.io/front-2023-1/sesion_08/
 
 - - - - - - - 
 
