@@ -9,11 +9,11 @@
 Para la evaluación corresponde **editar [los archivos en esta carpeta (sesion_07)](https://profesorfaco.github.io/front-2023-1/sesion_07/)**, atendiendo a lo que se incluye en la siguiente PAUTA:
 
 | DESCRIPCIÓN/INSTRUCCIÓN | PUNTOS |
-|:--------------------------------------|:--------:|
+|:------------------------------|:--------:|
 | Pendiente hasta el 27/04/2023 | 0.5 |
 | Pendiente hasta el 27/04/2023 | 0.5 |
 | Pendiente hasta el 27/04/2023 | 0.5 |
-| Pendiente hasta el 27/04/2023 | 0.5 |
+| Pendiente hasta el 27/04/2023 | 0.5 |
 | Pendiente hasta el 27/04/2023 | 0.5 |
 | Pendiente hasta el 27/04/2023 | 0.5 |
 | Pendiente hasta el 27/04/2023 | 1.0 |
