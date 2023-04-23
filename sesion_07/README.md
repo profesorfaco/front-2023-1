@@ -8,16 +8,19 @@
 
 Para la evaluación corresponde **editar [los archivos en esta carpeta (sesion_07)](https://profesorfaco.github.io/front-2023-1/sesion_07/)**, atendiendo a lo que se incluye en la siguiente PAUTA:
 
-| Nro. | Ítem | Puntaje |
-|:----:|:------------|:-------:|
-| 1 | Pendiente hasta el 27/04/2023 | 1.0 |
-| 2 | Pendiente hasta el 27/04/2023 | 1.0 |
-| 3 | Pendiente hasta el 27/04/2023 | 1.0 |
-| 4 | Pendiente hasta el 27/04/2023| 1.0 |
-| 5 | Pendiente hasta el 27/04/2023 | 1.0 |
-| 6 | Pendiente hasta el 27/04/2023 | 1.0 |
-| 7 | Punto base | 1.0  |
-| —  | **TOTAL** | **7.0** |
+| DESCRIPCIÓN/INSTRUCCIÓN | PUNTOS |
+|:--------------------------------------|:--------:|
+| Pendiente hasta el 27/04/2023 | 0.5 |
+| Pendiente hasta el 27/04/2023 | 0.5 |
+| Pendiente hasta el 27/04/2023 | 0.5 |
+| Pendiente hasta el 27/04/2023 | 0.5 |
+| Pendiente hasta el 27/04/2023 | 0.5 |
+| Pendiente hasta el 27/04/2023 | 0.5 |
+| Pendiente hasta el 27/04/2023 | 1.0 |
+| Pendiente hasta el 27/04/2023 | 1.0 |
+| Pendiente hasta el 27/04/2023 | 1.0 |
+| Punto base | 1.0 |
+| **T O T A L** | **7.0** |
 
 Una vez editados, deben colocarlos en [un nuevo repositorio de GitHub](https://docs.github.com/es/get-started/quickstart/create-a-repo) y asegurarse de activar [GitHub Pages](https://docs.github.com/es/pages/getting-started-with-github-pages/creating-a-github-pages-site), y que funcione correctamente (dejen pasar unos minutos y [refresquen el navegador](https://www.elespanol.com/omicrono/software/20180428/metodo-recargar-webs-no-conoces-solucionara-problemas/303220419_0.html)).
 
