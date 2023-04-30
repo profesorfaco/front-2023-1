@@ -58,7 +58,7 @@ Las 15 sesiones del electivo de **Introducción al Desarrollo Front End con HTML
 
 - Jueves 20 de abril → [sesion_06](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_06) →  JavaScript con Bootstrap v5 ✓
 
-- **Jueves 27 de abril → [sesion_07](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_07) → Evaluación de cierre Nº2**
+- **Jueves 27 de abril → [sesion_07](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_07) → Evaluación de cierre Nº2 ✓**
 
 - Jueves 4 de mayo → Pausa Primer Semestre
 
