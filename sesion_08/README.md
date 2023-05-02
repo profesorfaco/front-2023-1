@@ -43,7 +43,7 @@ Para más detalles sobre lo recién presentado, conviene revisar *Inclusive Desi
 
 También hay habilidades cognitivas que pueden verse limitadas tal como las físicas, lo que implica diferentes posibilidades de comprensión según el modo en que en el contexto se ofrezca la información. Por ejemplo, de acuerdo a la Organización para la Cooperación y Desarrollo Económico (OCDE), [una de cada dos personas en Chile no comprende lo que lee, pero leer con ganas marca una diferencia a la hora de comprender](https://uchile.cl/noticias/204610/estudios-u-de-chile-identifican-dificultades-en-comprension-lectora).
 
-E incluso hay asuntos técnicos que pueden limitarnos: Por ejemplo, puede ser que una pantalla o un proyector cambie los colores ofreciendo algo muy parecido al [daltonismo](https://chrome.google.com/webstore/detail/colorblind-dalton-for-goo/afcafnelafcgjinkaeohkalmfececool) (que afecta a [1 de cada 12 hombres](https://www.instagram.com/p/CdyxdJws4uu/) y 1 de cada 200 mujeres).
+E incluso hay asuntos técnicos que pueden limitarnos: Por ejemplo, puede ser que una pantalla o un proyector cambie los colores ofreciendo algo muy parecido al [daltonismo](https://chrome.google.com/webstore/detail/colorblind-dalton-for-goo/afcafnelafcgjinkaeohkalmfececool) (que afecta a [1 de cada 12 hombres](https://www.instagram.com/p/CdyxdJws4uu/) y 1 de cada 200 mujeres). O sin cambiar los colores, basta una relación poco favorable con la luz ambiente para perder mucho en el [contraste figura y fondo].
 
 - - - - - - - 
 
