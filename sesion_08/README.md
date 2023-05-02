@@ -41,7 +41,9 @@ Además de los objetivos situados están las **habilidades de cada persona**, **
 
 Para más detalles sobre lo recién presentado, conviene revisar *Inclusive Design tools and activities* de [Microsoft Incluse Design](https://inclusive.microsoft.design/), partiendo por [Inclusive 101](https://inclusive.microsoft.design/tools-and-activities/Inclusive101Guidebook.pdf).
 
-También hay habilidades cognitivas que pueden verse limitadas tal como las físicas, lo que implica diferentes posibilidades de comprensión, aprendizaje y motivación. E incluso hay asuntos técnicos que pueden limitarnos: Por ejemplo, puede ser que un *datashow* cambie los colores ofreciendo algo muy parecido al [daltonismo](https://chrome.google.com/webstore/detail/colorblind-dalton-for-goo/afcafnelafcgjinkaeohkalmfececool) (que afecta a [1 de cada 12 hombres](https://www.instagram.com/p/CdyxdJws4uu/) y 1 de cada 200 mujeres).
+También hay habilidades cognitivas que pueden verse limitadas tal como las físicas, lo que implica diferentes posibilidades de comprensión, aprendizaje y motivación. 
+
+E incluso hay asuntos técnicos que pueden limitarnos: Por ejemplo, puede ser que un *datashow* cambie los colores ofreciendo algo muy parecido al [daltonismo](https://chrome.google.com/webstore/detail/colorblind-dalton-for-goo/afcafnelafcgjinkaeohkalmfececool) (que afecta a [1 de cada 12 hombres](https://www.instagram.com/p/CdyxdJws4uu/) y 1 de cada 200 mujeres).
 
 - - - - - - - 
 
