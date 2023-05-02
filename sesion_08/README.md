@@ -41,7 +41,7 @@ Además de los objetivos situados están las **habilidades de cada persona**, **
 
 Para más detalles sobre lo recién presentado, conviene revisar los *resources* de [Incluse Design de Microsoft](https://www.microsoft.com/design/winclusive/).
 
-También hay habilidades cognitivas que pueden verse limitadas tal como las físicas, lo que implica diferentes posibilidades de comprensión, aprendizaje y motivación. E incluso hay asuntos técnicos que pueden limitarnos, como ya pudieron experimentarlo por dos años de clases remotas, donde se dependía de *cómo f-ncio--ba la c-nex--n c-d- -ía*, y se vuelve a experimentar en la presencialidad cuando, por ejemplo, el *datashow* cambia los colores como si fuera [daltónico](https://chrome.google.com/webstore/detail/colorblind-dalton-for-goo/afcafnelafcgjinkaeohkalmfececool) (como lo es [1 de cada 12 hombres](https://www.instagram.com/p/CdyxdJws4uu/); en mujeres lo es 1 de cada 200).
+También hay habilidades cognitivas que pueden verse limitadas tal como las físicas, lo que implica diferentes posibilidades de comprensión, aprendizaje y motivación. E incluso hay asuntos técnicos que pueden limitarnos: Puede ser que un *datashow* cambie los colores ofreciendo algo muy parecido al [daltonismo](https://chrome.google.com/webstore/detail/colorblind-dalton-for-goo/afcafnelafcgjinkaeohkalmfececool) (que afecta a [1 de cada 12 hombres](https://www.instagram.com/p/CdyxdJws4uu/); en mujeres lo es 1 de cada 200).
 
 - - - - - - - 
 
