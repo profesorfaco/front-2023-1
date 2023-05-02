@@ -37,7 +37,7 @@ Además de los objetivos situados están las **habilidades de cada persona**, **
 - *Tocar* → mano amputada, mano quemada o mano ocupada. 
 - *Ver* → ceguera, cataratas o distracción.
 - *Escuchar* → sordera, infección al oído o exceso de ruido. 
-- *Hablar* → falta de cuerdas vocales, laringitis o acento con falta de práctica. 
+- *Hablar* → falta de cuerdas vocales, laringitis o acento marcada por la falta de práctica. 
 
 Para más detalles sobre lo recién presentado, conviene revisar *Inclusive Design tools and activities* de [Microsoft Incluse Design](https://inclusive.microsoft.design/), partiendo por [Inclusive 101](https://inclusive.microsoft.design/tools-and-activities/Inclusive101Guidebook.pdf).
 
