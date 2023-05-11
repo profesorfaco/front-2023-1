@@ -62,9 +62,9 @@ Las 15 sesiones del electivo de **Introducción al Desarrollo Front End con HTML
 
 - Jueves 4 de mayo → Pausa Primer Semestre
 
-**Unidad III: Herramientas para el diseño/desarrollo ágil de sitios y aplicaciones Web**
+**Unidad III: Herramientas para el diseño/desarrollo ágil de sitios y aplicaciones Web ✓**
 
-- Jueves 11 de mayo → [sesion_08](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_08) → Consideraciones de usabilidad desde la primera definición del proyecto
+- Jueves 11 de mayo → [sesion_08](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_08) → Consideraciones de usabilidad desde la primera definición del proyecto ✓
 
 - Jueves 18 de mayo → [sesion_09](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_09) → Análisis, interpretación y organización diferenciada de antecedentes y referentes 
 
