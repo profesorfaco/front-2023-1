@@ -32,6 +32,13 @@ También podría sumar una revisión de:
 
 - https://blog.ida.cl/wp-content/uploads/sites/5/2016/03/ida-archivo-ixd.pdf
 
+
+- - - - - - - 
+
+#### Exploración práctica
+
+Completaremos https://profesorfaco.github.io/front-2023-1/sesion_10/
+
 - - - - - - - 
 
 ###### [← SESIÓN ANTERIOR](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_09) — [SIGUIENTE SESIÓN →](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_11)
