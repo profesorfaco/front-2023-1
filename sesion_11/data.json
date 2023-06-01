@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Angélica Espinoza",
+		"github": "https://github.com/Ange-Espinoza",
+		"extra": "https://www.u-cursos.cl/usuario/58d94d78b055b3b45bb6d3f1426783b3/datos_usuario/",
+		"promedio": 6.8,
+		"aprueba": true,
+		"foto": "https://static.u-cursos.cl/images/siglas/AE.svg"
+	},
+	{
+		"name": "Otra Angélica Espinoza",
+		"github": "https://github.com/Ange-Espinoza",
+		"extra": "https://www.u-cursos.cl/usuario/58d94d78b055b3b45bb6d3f1426783b3/datos_usuario/",
+		"promedio": 6.8,
+		"aprueba": true,
+		"foto": "https://static.u-cursos.cl/images/siglas/AE.svg"
+	},
+	{
+		"name": "Otra Angélica Espinoza más",
+		"github": "https://github.com/Ange-Espinoza",
+		"extra": "https://www.u-cursos.cl/usuario/58d94d78b055b3b45bb6d3f1426783b3/datos_usuario/",
+		"promedio": 6.8,
+		"aprueba": true,
+		"foto": "https://static.u-cursos.cl/images/siglas/AE.svg"
+	}
+]
