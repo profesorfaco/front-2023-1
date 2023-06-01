@@ -66,11 +66,11 @@ Las 15 sesiones del electivo de **Introducción al Desarrollo Front End con HTML
 
 - Jueves 11 de mayo → [sesion_08](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_08) → Consideraciones de usabilidad desde la primera definición del proyecto ✓
 
-- Jueves 18 de mayo → [sesion_09](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_09) → Análisis, interpretación y organización diferenciada de antecedentes y referentes 
+- Jueves 18 de mayo → [sesion_09](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_09) → Análisis, interpretación y organización diferenciada de antecedentes y referentes ✓
 
-- Jueves 25 de mayo → [sesion_10](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_10) → Especificación del desempeño del diseño desde representaciones esquemáticas 
+- Jueves 25 de mayo → [sesion_10](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_10) → Especificación del desempeño del diseño desde representaciones esquemáticas ✓
 
-- Jueves 1 de junio → [sesion_11](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_11) → Desde el anteproyecto a la implementación de modo iterativo e incremental
+- Jueves 1 de junio → [sesion_11](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_11) → Desde el anteproyecto a la implementación de modo iterativo e incremental ✓
 
 - Jueves 8 de junio → sesion_12 → Feriado Religioso.
 
