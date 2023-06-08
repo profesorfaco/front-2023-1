@@ -6,7 +6,7 @@
 
 - - - - - - - -
 
-En el `index.html` de este sitio web tendrán que presentar: 
+En teoría, en el `index.html` de este sitio web tendrán que presentar: 
 
 - Nombre de su proyecto (se recomienda proponer un dominio.cl);
 - Descripción de su proyecto (qué objetivo tiene);
