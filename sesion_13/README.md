@@ -32,8 +32,8 @@ Lighthouse genera reportes en dos versiones: [resumida](https://github.com/profe
 
 2. **se podría mejorar el posicionamiento en buscadores** (SEO; Search Engine Optimization) – las máquinas necesitan datos o, mejor dicho, metadatos. Con ellos pueden catalogar cada página web. Para [cuidar los metadatos](https://developers.google.com/search/docs/advanced/crawling/special-tags?hl=es), es recomendable:
 
-    - hacer una revisión con https://www.heymeta.com/
-    - hacer una edición con https://megatags.co/
+    - https://metatags.io/
+    - https://megatags.co/
 
 - - - - - - -
 
