@@ -72,9 +72,9 @@ Las 15 sesiones del electivo de **Introducción al Desarrollo Front End con HTML
 
 - Jueves 1 de junio → [sesion_11](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_11) → Desde el anteproyecto a la implementación de modo iterativo e incremental ✓
 
-- Jueves 8 de junio → sesion_12 → Feriado Religioso.
+- Jueves 8 de junio → sesion_12 → Feriado Religioso ✓
 
-- Jueves 15 de junio → [sesion_13](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_13) → Pre-evaluación de cierre Nº3 
+- Jueves 15 de junio → [sesion_13](https://github.com/profesorfaco/front-2023-1/tree/main/sesion_13) → Pre-evaluación de cierre Nº3 ✓ 
 
 - Jueves 22 de junio → sesion_14 → Sin clases sincrónicas (trabajo autónomo)
 
